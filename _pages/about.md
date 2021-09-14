@@ -23,6 +23,3 @@ Google Calendar \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d
 - [Prof. Lorenzo Cavallaro](https://s2lab.cs.ucl.ac.uk/people/sullivan), UCL  
 - [Dr. Vasilis Mavroudis](https://mavroud.is/), Alan Turing Institute  
 
-
-### Contact
-- [prisec-ml@emilianodc.com](mailto:prisec-ml@emilianodc.com)
