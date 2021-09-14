@@ -3,9 +3,9 @@ permalink: /
 author_profile: true
 ---
 
-This is the homepage of the **Privacy & Security in ML (PriSec-ML)** Interest Group. It brings together researchers and practitioners around the world broadly interested in the topic. For the time being, it features recurring seminars, roughly every two weeks, tentatively Wednesdays 1pm London Time.  
+This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML)** Interest Group. It brings together researchers and practitioners around the world broadly interested in the topic. For the time being, it features recurring seminars, roughly every two weeks, tentatively Wednesdays 1pm London Time.  
 
-This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). We have branched out and expanded to topics at the intersection of Security (not just Privacy) and ML.
+This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). We have branched out and expanded to topics at the intersection of Security (not just Privacy) and Machine Learning.
 
 ### Upcoming Seminars
 *TBD*  
