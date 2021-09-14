@@ -1,5 +1,4 @@
 ---
-title: Interest Group - Privacy & Security in Machine Learning
 permalink: /
 author_profile: true
 ---
