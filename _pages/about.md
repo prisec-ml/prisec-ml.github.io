@@ -13,7 +13,7 @@ Google Calendar \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d
 
 
 ### Mailing List
-- To subscribe to seminar and job announcements, see our jisc [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)
+- To receive to seminar and job announcements, please subscribe to our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)
 
 
 
