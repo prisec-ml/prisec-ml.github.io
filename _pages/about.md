@@ -3,8 +3,6 @@ permalink: /
 author_profile: true
 ---
 
-### Interest Group in Privacy & Security in Machine Learning
-
 This is the homepage of the **Privacy & Security in ML (PriSec-ML)** Interest Group. It brings together researchers and practitioners around the world broadly interested in the topic. For the time being, it features recurring seminars, roughly every two weeks, tentatively Wednesdays 1pm London Time.  
 
 This Interest Group is a reboot of the Turing Institute's in Privacy & Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). More precisely, in September 2021, we have branched out and expanded to Security (i.e., not only Privacy) in Machine Learning.
