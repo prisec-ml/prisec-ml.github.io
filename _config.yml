@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Privacy & Security in Machine Learning Interest Group (PriSec-ML)"
+title                    : "PriSec-ML"
 title_separator          : "-"
 name                     : &name "PriSec-ML"
 description              : &description ""
