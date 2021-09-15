@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PriSec-ML"
+title                    : "Privacy and Security in ML"
 title_separator          : "-"
 name                     : &name "PriSec-ML"
 description              : &description ""
