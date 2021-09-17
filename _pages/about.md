@@ -9,13 +9,14 @@ This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest 
 
 ### Upcoming Seminars
 
-<img src="../images/konrad.jpeg" style="float:right;width:100px;height:100px;margin-top:30px">
-- 13 October 2021, 13:00 (UK time)  
+<img src="../images/konrad.jpeg" style="float:right;width:100px;height:100px;margin-top:0px">
+- 13 October 2021, 13:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211013T13&p1=136))  
 **Prof. Konrad Rieck (Technische Universität Braunschweig)**  
 Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJEoc-itqzwoE9wIgC6gpR5WAMIWlt0dgFeB)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]  
-<img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:30px">
-- 27 Octber 2021, 13:30 (UK time)  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJEoc-itqzwoE9wIgC6gpR5WAMIWlt0dgFeB)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]
+
+<img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 27 October 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211027T1330&p1=136))  
 **Prof. Reza Shorki (National University of Singapore)**  
 Privacy Auditing in Machine Learning  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpduCoqDIsHNdg26Sb1Bc8s2GZkKF-mir1)] [[Live Stream](https://youtu.be/Ud7-sSJTG2k)]
