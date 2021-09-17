@@ -12,9 +12,13 @@ This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest 
 - 13 October 2021, 13:00 (UK time)  
 **Prof. Konrad Rieck (Technische Universität Braunschweig)**  
 Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning  
-[[Zoom Registration](Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]
-- 27-Oct-2021, 13:30 (UK time): Prof. Reza Shorki, National University of Singapore, *Privacy Auditing in Machine Learning*. Details to follow.
-- Google Calendar: \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJEoc-itqzwoE9wIgC6gpR5WAMIWlt0dgFeB)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]
+- 27 Octber 2021, 13:30 (UK time)  
+**Prof. Reza Shorki (National University of Singapore)**  
+Privacy Auditing in Machine Learning  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpduCoqDIsHNdg26Sb1Bc8s2GZkKF-mir1)] [[Live Stream](https://youtu.be/Ud7-sSJTG2k)]
+
+Google Calendar: \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 
 ### Mailing List
