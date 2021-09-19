@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Privacy and Security in ML"
 title_separator          : "-"
+title_image              : /images/photo.jpeg
 name                     : &name "PriSec-ML"
 description              : &description ""
 url                      : https://prisec-ml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,7 +103,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "presec_ml"
+  twitter          : "prisec_ml"
   vine             :
   weibo            :
   xing             :
