@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+image: ../images/photo.jpeg
 title: Security and Privacy in ML Seminars
 ---
 
