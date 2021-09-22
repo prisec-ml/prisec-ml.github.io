@@ -15,7 +15,8 @@ This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest 
 - 13 October 2021, 13:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211013T13&p1=136))  
 **Prof. Konrad Rieck (Technische Universität Braunschweig)**  
 Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJEoc-itqzwoE9wIgC6gpR5WAMIWlt0dgFeB)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]<details>**Abstract:** **Bio:**</details>
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJEoc-itqzwoE9wIgC6gpR5WAMIWlt0dgFeB)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]
+<details>**Abstract:**<br>The remarkable advances of machine learning are overshadowed by attacks that thwart its proper operation. While previous work has mainly focused on attacking learning algorithms directly, another weak spot in intelligent systems has been overlooked: preprocessing. As an example of this threat, I present a recent class of attacks against image scaling. These attacks are agnostic to learning algorithms and affect the preprocessing of all vision systems that use vulnerable implementations, including versions of TensorFlow, OpenCV, and Pillow. Based on a root-cause analysis of the vulnerabilities, I introduce novel defenses that effectively block image-scaling attacks in practice and can be easily added to existing systems.<br>**Bio:**[https://www.tu-braunschweig.de/en/sec/team/rieck](https://www.tu-braunschweig.de/en/sec/team/rieck)</details>
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 27 October 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211027T1330&p1=136))  
