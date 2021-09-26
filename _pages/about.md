@@ -7,8 +7,6 @@ title: Security and Privacy in ML Seminars
 
 This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, roughly every two weeks, tentatively Wednesdays 1pm (London Time).  
 
-This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning.
-
 ### Upcoming Seminars
 
 <img src="../images/konrad.jpeg" style="float:right;width:100px;height:100px;margin-top:0px">
@@ -34,6 +32,12 @@ Google Calendar: \[[html](https://calendar.google.com/calendar/embed?src=oormvn3
 - To receive to seminar and job announcements, please subscribe to our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)
 
 
+### Past Seminars
+This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning.
+
+You can also watch the recordings of the talks on our [YouTube channel](http://youtube.com/c/PrivacyandMachineLearningInterestGroup).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Organizers
 - [Prof. Emiliano De Cristofaro](https://emilianodc.com/), UCL  
