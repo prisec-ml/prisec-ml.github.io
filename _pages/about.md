@@ -23,6 +23,10 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 Privacy Auditing in Machine Learning  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpduCoqDIsHNdg26Sb1Bc8s2GZkKF-mir1)] [[Live Stream](https://youtu.be/Ud7-sSJTG2k)]<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.comp.nus.edu.sg/~reza/](https://www.comp.nus.edu.sg/~reza/)<br></details>
 
+<img src="../images/sara.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 3 November 2021, 16:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211103T1600&p1=136))  
+**Dr. Sara Hooker (Google Brain)**<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.sarahooker.me](https://www.sarahooker.me))<br></details>
+
 Google Calendar: \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 
