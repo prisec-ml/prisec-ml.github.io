@@ -17,7 +17,7 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 27 October 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211027T1330&p1=136))  
-**Prof. Reza Shorki (National University of Singapore)**  
+**Prof. Reza Shokri (National University of Singapore)**  
 Privacy Auditing in Machine Learning  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpduCoqDIsHNdg26Sb1Bc8s2GZkKF-mir1)] [[Live Stream](https://youtu.be/Ud7-sSJTG2k)]<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.comp.nus.edu.sg/~reza/](https://www.comp.nus.edu.sg/~reza/)<br></details>
 
