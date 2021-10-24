@@ -19,6 +19,7 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 - 3 November 2021, 16:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211103T1600&p1=136))  
 **Dr. Sara Hooker (Google Brain)**<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.sarahooker.me](https://www.sarahooker.me))<br></details>
 <br>
+<br>
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - ~~27 October 2021~~ 17 November 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211027T1330&p1=136))  
