@@ -12,7 +12,7 @@ title: Privacy and Security in ML Seminars
 <img src="../images/sara.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - ~~3 November~~ 10 November 2021, 16:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211103T1600&p1=136))  
 **Dr. Sara Hooker (Google Brain)**  
-The myth of the interpretable, robust, compact and high performance deep neural network  
+The myth of the interpretable, robust, compact and high performance DNN  
 [[Zoom Registration]( https://ucl.zoom.us/meeting/register/tJYodO6vqjkvHNcl449ZmWi68H0YySLnjkrT) [[Live Stream](https://youtu.be/BZ3FDiXkP78)]<details><br>**Abstract:**<br>To-date, a discussion around the relative merits of different compression methods has centered on the trade-off between level of compression and top-line metrics. Along this dimension, compression techniques such as pruning and quantization are remarkably successful. It is possible to prune or heavily quantize with negligible decreases to test-set accuracy. However, top-line metrics obscure critical differences in generalization between compressed and non-compressed networks. In this talk, we will go beyond test-set accuracy and discuss some of my recent work measuring the trade-offs between compression, robustness and algorithmic bias. Characterizing these trade-offs provide insight into how capacity is used in deep neural networks -- the majority of parameters are used to represent a small fraction of the training set.<br><br>**Bio:**<br>[https://www.sarahooker.me](https://www.sarahooker.me)<br></details>
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
