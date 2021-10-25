@@ -32,8 +32,10 @@ Google Calendar: \[[html](https://calendar.google.com/calendar/embed?src=oormvn3
 Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJEoc-itqzwoE9wIgC6gpR5WAMIWlt0dgFeB)] [[Live Stream](https://youtu.be/kCKayHjZd3E)]<details><br>**Abstract:**<br>The remarkable advances of machine learning are overshadowed by attacks that thwart its proper operation. While previous work has mainly focused on attacking learning algorithms directly, another weak spot in intelligent systems has been overlooked: preprocessing. As an example of this threat, I present a recent class of attacks against image scaling. These attacks are agnostic to learning algorithms and affect the preprocessing of all vision systems that use vulnerable implementations, including versions of TensorFlow, OpenCV, and Pillow. Based on a root-cause analysis of the vulnerabilities, I introduce novel defenses that effectively block image-scaling attacks in practice and can be easily added to existing systems.<br><br>**Bio:**<br>[https://www.tu-braunschweig.de/en/sec/team/rieck](https://www.tu-braunschweig.de/en/sec/team/rieck)<br></details>
 
-### Mailing List
+### Get Involved
 - To receive to seminar and job announcements, please subscribe to our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)
+- You can also join our [Slack](https://prisec-ml.slack.com) by using this [link]
+(https://join.slack.com/t/prisec-ml/shared_invite/zt-y02o7shc-Ef~5IRsEyNwCzvZkfjy7lg)
 
 
 ### Past Seminars
