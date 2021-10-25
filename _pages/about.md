@@ -34,8 +34,7 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 
 ### Get Involved
 - To receive to seminar and job announcements, please subscribe to our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)
-- You can also join our [Slack](https://prisec-ml.slack.com) by using this [link]
-(https://join.slack.com/t/prisec-ml/shared_invite/zt-y02o7shc-Ef~5IRsEyNwCzvZkfjy7lg)
+- You can also join our [Slack](https://prisec-ml.slack.com) by using this [link](https://join.slack.com/t/prisec-ml/shared_invite/zt-y02o7shc-Ef~5IRsEyNwCzvZkfjy7lg)
 
 
 ### Past Seminars
