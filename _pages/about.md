@@ -5,7 +5,7 @@ image: ../images/photo.jpeg
 title: Privacy and Security in ML Seminars
 ---
 
-<br>This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, roughly every two weeks, tentatively Wednesdays 1pm (London Time).  
+<br>This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, a couple of times a month, always on Wednesdays, around 1pm or so (London Time).  
 
 ### Upcoming Seminars
 
