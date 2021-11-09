@@ -26,7 +26,7 @@ The myth of the interpretable, robust, compact and high performance DNN
 Privacy Auditing in Machine Learning  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpduCoqDIsHNdg26Sb1Bc8s2GZkKF-mir1)] [[Live Stream](https://youtu.be/Ud7-sSJTG2k)]<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.comp.nus.edu.sg/~reza/](https://www.comp.nus.edu.sg/~reza/)<br></details>
 
-<img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
+<img src="../images/eugene.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 1 December 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211201T1330&p1=136))  
 **Eugene Bagdasaryan (Cornell Tech and Apple)**  
 TBD  
