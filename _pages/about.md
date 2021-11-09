@@ -5,7 +5,7 @@ image: ../images/photo.jpeg
 title: Privacy and Security in ML Seminars
 ---
 
-<br>This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, a couple of times a month, always on Wednesdays, around 1pm or so (London Time).  
+<br>This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, a couple of times a month, always on Wednesdays, around 1.30 PM (London Time).  
 
 ### Get Involved
 - To receive to seminar and job announcements, please subscribe to our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1).
@@ -21,10 +21,16 @@ The myth of the interpretable, robust, compact and high performance DNN
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYodO6vqjkvHNcl449ZmWi68H0YySLnjkrT)] [[Live Stream](https://youtu.be/BZ3FDiXkP78)]<details><br>**Abstract:**<br>To-date, a discussion around the relative merits of different compression methods has centered on the trade-off between level of compression and top-line metrics. Along this dimension, compression techniques such as pruning and quantization are remarkably successful. It is possible to prune or heavily quantize with negligible decreases to test-set accuracy. However, top-line metrics obscure critical differences in generalization between compressed and non-compressed networks. In this talk, we will go beyond test-set accuracy and discuss some of my recent work measuring the trade-offs between compression, robustness and algorithmic bias. Characterizing these trade-offs provide insight into how capacity is used in deep neural networks -- the majority of parameters are used to represent a small fraction of the training set.<br><br>**Bio:**<br>[https://www.sarahooker.me](https://www.sarahooker.me)<br></details>
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
-- ~~27 October~~ 17 November 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211117T1330&p1=136))  
+- 17 November 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211117T1330&p1=136))  
 **Prof. Reza Shokri (National University of Singapore)**  
 Privacy Auditing in Machine Learning  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJYpduCoqDIsHNdg26Sb1Bc8s2GZkKF-mir1)] [[Live Stream](https://youtu.be/Ud7-sSJTG2k)]<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.comp.nus.edu.sg/~reza/](https://www.comp.nus.edu.sg/~reza/)<br></details>
+
+<img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 1 December 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211201T1330&p1=136))  
+**Eugene Bagdasaryan (Cornell Tech and Apple)**  
+TBD  
+[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.cs.cornell.edu/~eugene/](https://www.cs.cornell.edu/~eugene/)<br></details>
 
 <img src="../images/luca.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 8 December 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211208T1330&p1=136))  
