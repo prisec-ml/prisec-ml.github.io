@@ -26,8 +26,10 @@ Privacy Auditing in Machine Learning
 <img src="../images/eugene.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 1 December 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211201T1330&p1=136))  
 **Eugene Bagdasaryan (Cornell Tech and Apple)**  
-TBD  
-[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>TBA<br><br>**Bio:**<br>[https://www.cs.cornell.edu/~eugene/](https://www.cs.cornell.edu/~eugene/)<br></details>
+Blind Backdoors in Deep Learning  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJUqce2hqTsuGdQKqxfBOFzzYxGWJnHKXThU)] [[Live Stream](https://youtu.be/TCBPX3CA5UQ)]<details><br>**Abstract:**<br>We investigate a new method for injecting backdoors into machine learning models, based on compromising the loss-value computation in the model-training code. We use it to demonstrate new classes of backdoors strictly more powerful than those in the prior literature: single-pixel and physical backdoors in ImageNet models, backdoors that switch the model to a covert, privacy-violating task, and backdoors that do not require inference-time input modifications.<br><br>
+Our attack is blind: the attacker cannot modify the training data, nor observe the execution of his code, nor access the resulting model. The attack code creates poisoned training inputs "on the fly," as the model is training, and uses multi-objective optimization to achieve high accuracy on both the main and backdoor tasks. We show how a blind attack can evade any known defense and propose new ones.
+<br><br>**Bio:**<br>Eugene is a PhD Candidate at Cornell Tech advised by Vitaly Shmatikov and Deborah Estrin. He is an Apple AI/ML Scholar. He focuses on privacy and security implications of applying machine learning in the real world, specifically backdoor attacks and defenses, differential privacy, and federated learning.<br><br>[https://www.cs.cornell.edu/~eugene/](https://www.cs.cornell.edu/~eugene/)<br></details>
 
 <img src="../images/luca.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 8 December 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211208T1330&p1=136))  
