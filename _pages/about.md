@@ -8,10 +8,10 @@ title: Privacy and Security in ML Seminars
 <br>This is the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, a couple of times a month, always on Wednesdays, around 1.30 PM (London Time).  
 
 ### Get Involved
-- Subscribe to our [mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1) to receive to seminar and job announcements
-- Join our [Slack](https://prisec-ml.slack.com) by using this [link](https://join.slack.com/t/prisec-ml/shared_invite/zt-y02o7shc-Ef~5IRsEyNwCzvZkfjy7lg) &ndash; this is particularly useful for students, who maintain an active working group with monthly (virtual) meet-ups
-- Follow us on Twitter [@prisec_ml](https://twitter.com/prisec_ml)
-- Subscribe to our [YouTube channel](http://youtube.com/c/PrivacyandMachineLearningInterestGroup) where we live stream talks and keep recordings of previous talks
+- Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar and job announcements
+- Join our **[Slack](https://prisec-ml.slack.com)** by using this [link](https://join.slack.com/t/prisec-ml/shared_invite/zt-y02o7shc-Ef~5IRsEyNwCzvZkfjy7lg) &ndash; this is particularly useful for students, who maintain an active working group with monthly (virtual) meet-ups
+- Follow us on **[Twitter](https://twitter.com/prisec_ml)**
+- Subscribe to our **[YouTube channel](http://youtube.com/c/PrivacyandMachineLearningInterestGroup)** where we live stream and keep recordings of the talks
 
 
 ### Upcoming Seminars
