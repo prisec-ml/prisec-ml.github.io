@@ -39,7 +39,7 @@ Google Calendar: \[[html](https://calendar.google.com/calendar/embed?src=oormvn3
 ### Past Seminars
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 17 November 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211117T1330&p1=136))  
+- 17 November 2021  
 **Prof. Reza Shokri (National University of Singapore)**  
 Advanced Membership Inference Attacks  
 [[Recording](https://youtu.be/Ud7-sSJTG2k)]<details><br>**Abstract:** Data Protection regulations, such as GDPR, and AI governance frameworks require personal data to be protected when used in AI systems, and that the users have control over their data and awareness about how it is being used. For example, Article 35 of GDPR requires organizations to systematically analyze, identify and minimize the data protection risks of a project, especially when it involves innovative technologies such as deep learning. Thus, proper mechanisms need to be in place to quantitatively evaluate and verify the privacy of individuals in every step of the data processing pipeline in AI systems. In this talk, I will define what data privacy is in the context of machine learning, and how it can be quantified. I will also present ML Privacy Meter tool that enables quantifying the privacy risks of machine learning models. The tool produces privacy risk analysis reports, which help in identifying data records among the training data that are under high risk of being leaked through the model parameters or predictions.<br><br>
@@ -47,13 +47,13 @@ The privacy risk analysis in ML Privacy Meter is based on membership inference a
 [https://www.comp.nus.edu.sg/~reza/](https://www.comp.nus.edu.sg/~reza/)<br></details>
 
 <img src="../images/sara.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 10 November 2021, 16:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211110T1600&p1=136))  
+- 10 November 2021  
 **Dr. Sara Hooker (Google Brain)**  
 The myth of the interpretable, robust, compact and high performance DNN  
 [[Recording](https://youtu.be/BZ3FDiXkP78)]<details><br>**Abstract:**<br>To-date, a discussion around the relative merits of different compression methods has centered on the trade-off between level of compression and top-line metrics. Along this dimension, compression techniques such as pruning and quantization are remarkably successful. It is possible to prune or heavily quantize with negligible decreases to test-set accuracy. However, top-line metrics obscure critical differences in generalization between compressed and non-compressed networks. In this talk, we will go beyond test-set accuracy and discuss some of my recent work measuring the trade-offs between compression, robustness and algorithmic bias. Characterizing these trade-offs provide insight into how capacity is used in deep neural networks -- the majority of parameters are used to represent a small fraction of the training set.<br><br>**Bio:**<br>[https://www.sarahooker.me](https://www.sarahooker.me)<br></details>
 
 <img src="../images/konrad.jpeg" style="float:right;width:100px;height:100px;margin-top:0px">
-- 13 October 2021, 13:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211013T13&p1=136))  
+- 13 October 2021  
 **Prof. Konrad Rieck (Technische Universität Braunschweig)**  
 Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning  
 [[Recording](https://youtu.be/kCKayHjZd3E)]<details><br>**Abstract:**<br>The remarkable advances of machine learning are overshadowed by attacks that thwart its proper operation. While previous work has mainly focused on attacking learning algorithms directly, another weak spot in intelligent systems has been overlooked: preprocessing. As an example of this threat, I present a recent class of attacks against image scaling. These attacks are agnostic to learning algorithms and affect the preprocessing of all vision systems that use vulnerable implementations, including versions of TensorFlow, OpenCV, and Pillow. Based on a root-cause analysis of the vulnerabilities, I introduce novel defenses that effectively block image-scaling attacks in practice and can be easily added to existing systems.<br><br>**Bio:**<br>[https://www.tu-braunschweig.de/en/sec/team/rieck](https://www.tu-braunschweig.de/en/sec/team/rieck)<br></details>
