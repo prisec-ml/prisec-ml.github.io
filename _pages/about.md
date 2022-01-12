@@ -26,7 +26,7 @@ Trustworthy Machine Learning with Both Differential Privacy and Certified Robust
 
 
 <img src="../images/giulia.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- February 2022, Details TBA  
+- 23 February 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220223T1330&p1=136))  
 **Giulia Fanti (Carnegie Mellon University)**  
 TBA  
 [[Zoom Registration]()] [[Live Stream]()]<details><br>**Bio:** [https://www.ece.cmu.edu/directory/bios/fanti-giulia.html](https://www.ece.cmu.edu/directory/bios/fanti-giulia.html)<br></details>
