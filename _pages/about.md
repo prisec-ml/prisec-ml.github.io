@@ -31,7 +31,15 @@ Trustworthy Machine Learning with Both Differential Privacy and Certified Robust
 TBA  
 [[Zoom Registration]()] [[Live Stream]()]<details><br>**Bio:** [https://www.ece.cmu.edu/directory/bios/fanti-giulia.html](https://www.ece.cmu.edu/directory/bios/fanti-giulia.html)<br></details>
 
+
+<img src="../images/gang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 9 March 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220309T1330&p1=136))  
+**Gang Wang (University of Illinois at Urbana-Champaign)**  
+TBA  
+[[Zoom Registration]()] [[Live Stream]()]<details><br>**Bio:** [https://gangw.cs.illinois.edu](https://gangw.cs.illinois.edu)<br></details>
+
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
+
 
 
 ### Past Seminars
