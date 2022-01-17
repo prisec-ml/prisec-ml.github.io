@@ -38,6 +38,13 @@ TBA
 TBA  
 [[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://gangw.cs.illinois.edu](https://gangw.cs.illinois.edu)<br></details>
 
+
+<img src="../images/suman.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 4 May  2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220504T1400&p1=136))  
+**Suman Jana (Columbia University)**  
+TBA  
+[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://www.cs.columbia.edu/~suman/](https://www.cs.columbia.edu/~suman/)<br></details>
+
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 
