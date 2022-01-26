@@ -16,6 +16,11 @@ title: Privacy and Security in ML Seminars
 
 ### Upcoming Seminars
 
+<img src="../images/nando.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 9 February 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220209T1330&p1=136))  
+**Ferdinando Fioretto (Syracuse University)**  
+Privacy-preserving ML and decisions-making: uses and unintended disparate effects  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJctf-murDwjEtRdhivmVyZMNFOeGKNP6xHs)] [[Live Stream](https://youtu.be/RRvG9As8q6s)]<details><br>**Abstract:**<br>**Bio:** [https://web.ecs.syr.edu/~ffiorett/](https://web.ecs.syr.edu/~ffiorett/)<br></details>
 
 <img src="../images/giulia.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 23 February 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220223T1330&p1=136))  
