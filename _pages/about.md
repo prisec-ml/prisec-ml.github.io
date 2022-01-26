@@ -32,20 +32,20 @@ Locally Differentially-Private Sparse Vector Aggregation
 <img src="../images/gang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 9 March 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220309T1330&p1=136))  
 **Gang Wang (University of Illinois at Urbana-Champaign)**  
-  
+Talk Details TBA  
 [[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://gangw.cs.illinois.edu](https://gangw.cs.illinois.edu)<br></details>
 
 
 <img src="../images/heng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 23 March 2022, 15:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220323T1530&p1=136))  
 **Heng Yin (UC Riverside)**  
-  
+Talk Details TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJIrduytpzwtE9Bycfnc9n4DLRFQbIbf3Isc)] [[Live Stream](https://youtu.be/4MtUbyN-vGo)]<details><br>**Abstract:**<br>**Bio:** [https://www.cs.ucr.edu/~heng/](https://www.cs.ucr.edu/~heng/)<br></details>
 
 <img src="../images/suman.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 4 May  2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220504T1400&p1=136))  
 **Suman Jana (Columbia University)**  
-  
+Talk Details TBA  
 [[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://www.cs.columbia.edu/~suman/](https://www.cs.columbia.edu/~suman/)<br></details>
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
