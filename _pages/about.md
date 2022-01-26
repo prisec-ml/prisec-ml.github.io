@@ -20,8 +20,8 @@ title: Privacy and Security in ML Seminars
 <img src="../images/giulia.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 23 February 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220223T1330&p1=136))  
 **Giulia Fanti (Carnegie Mellon University)**  
-TBA  
-[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://www.ece.cmu.edu/directory/bios/fanti-giulia.html](https://www.ece.cmu.edu/directory/bios/fanti-giulia.html)<br></details>
+Locally Differentially-Private Sparse Vector Aggregation  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJErcOCqrT0sHtQVGMYUhL40SFRimrujwpfl)] [[Live Stream](https://youtu.be/dnFa92daKxA)]<details><br>**Abstract:** Vector mean estimation is a central primitive in federated analytics. In vector mean estimation, each user holds a real-valued vector and a server wants to estimate the mean of all vectors, without compromising any individual user’s privacy. In this paper, we consider the k-sparse version of the vector mean estimation problem. That is, suppose each user’s vector has at most k non-zero coordinates in its d-dimensional vector, with k << d. In practice, since the universe size d can be very large (e.g., the space of all possible URLs), we would like the per-user communication to be succinct, i.e., independent of or (poly-)logarithmic in the universe size d. In this paper, we show matching upper and lower bounds for the k-sparse vector mean estimation problem under local differential privacy. Specifically, we construct new mechanisms that achieve asymptotically optimal error and succinct communication, either under user-level-LDP or event-level-LDP. Our experiments on real and synthetic data show 1-2 orders of magnitude reduction in error compared to prior works under typical parameter choices, while incurring mild communication costs.<br><br>**Bio:** Giulia Fanti is an Assistant Professor of Electrical and Computer Engineering at Carnegie Mellon University. Her research interests span the security, privacy, and efficiency of distributed systems. She is a two-time fellow of the World Economic Forum’s Global Future Council on Cybersecurity and a member of NIST's Information Security and Privacy Advisory Board. Her work has been recognized with best paper awards (Sigmetrics and MobiHoc) and faculty research awards from the Sloan Foundation, Intel, the U.S. Air Force Research Laboratory, Google, and JP Morgan Chase. She obtained her Ph.D. in EECS from U.C. Berkeley and her B.S. in ECE from Olin College of Engineering. Home: [https://www.ece.cmu.edu/directory/bios/fanti-giulia.html](https://www.ece.cmu.edu/directory/bios/fanti-giulia.html)<br></details>
 
 
 <img src="../images/gang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
@@ -84,7 +84,7 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ### Organizers
 - [Prof. Emiliano De Cristofaro](https://emilianodc.com/), UCL  
