@@ -93,78 +93,93 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 
 
 ### Previous Iteration
-This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning. We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning. Here are the talks in that series:
+This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning. We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning. Here are the talks in that series:  
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 11 August 2021  
 **Natasha Fernandes (UNSW)**  
 Quantitative Information Flow Refinement Orders and Application to DP  
 [[Recording](https://www.youtube.com/watch?v=hdcg1_Fyexw)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 28 July 2021  
 **Kumal Talwar (Apple)**  
 Private Stochastic Convex Optimization  
 [[Recording](https://www.youtube.com/watch?v=gYHj_L9kKWk)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 14 July 2021  
 **Luca Demetrio (University of Cagliari)**  
 Adversarial EXEmples: Functionality-preserving Optimization  
 [[Recording](https://www.youtube.com/watch?v=CTzNID5iLcw)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 16 June 2021  
 **Catuscia Palamidessi (INRIA)**  
 On the impossibility of non-trivial accuracy under fairness constraints  
 [[Recording](https://www.youtube.com/watch?v=FT4ywrYHx6g)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 2 June 2021  
 **Fatemeh Mireshghallah (UCSD)**  
 Low Overhead Techniques for Privacy and Fairness of DNN Training and Inference  
 [[Recording](https://www.youtube.com/watch?v=JwoJpJoNGrg)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 19 May 2021  
 **Jamie Hayes (DeepMind)**  
 Towards Transformation-Resilient Provenance Detection  
 [[Recording](https://www.youtube.com/watch?v=MAlpel4M2GY)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 5 May 2021  
 **Nicolas Carlini (Google Brain)**  
 Extracting Training Data from Large Language Models  
 [[Recording](https://www.youtube.com/watch?v=RDpHBLJKaNU)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 21 April 2021  
 **Jacob Steinhardt (UC Berkeley)**  
 The Science of Measurement in Machine Learning  
 [[Recording](https://www.youtube.com/watch?v=DqT9S2gl8iU)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 7 April 2021  
 **Yang Zhang (CISPA)**  
 Quantifying Privacy Risks of Machine Learning Models  
 [[Recording](https://www.youtube.com/watch?v=ZdO3oetacME)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 24 March 2021  
 **James Bell (Turing Institute)**  
 Secure Single-Server Aggregation with (Poly)Logarithmic Overhead  
 [[Recording](https://www.youtube.com/watch?v=_NzClquIipo)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 10 March 2021  
 **Alina Oprea (Northeastern University)**  
 Machine Learning Integrity and Privacy in Adversarial Environments  
 [[Recording](https://www.youtube.com/watch?v=ihp2NMIuJD4)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 24 February 2021  
 **Bristena Oprisanu (UCL)**  
 Synthetic Data - A Privacy Mirage?  
 [[Recording](https://www.youtube.com/watch?v=nR3Hfh4-HPI)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 10 February 2021  
 **Nicolas Papernot (University of Toronto)**  
 What does it mean for ML to be trustworthy?  
 [[Recording](https://www.youtube.com/watch?v=26uls-FLAfA)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 27 January 2021  
 **Graham Cormode (Warwick University)**  
 Towards Federated Analytics with Local Differential Privacy  
 [[Recording](https://www.youtube.com/watch?v=cCEgFNtWG5E)]
 
+<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 27 January 2021  
 **Vitaly Shmatikov (Cornell Tech)**  
 How to Salvage Federated Learning  
