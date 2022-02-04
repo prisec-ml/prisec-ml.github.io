@@ -161,7 +161,7 @@ Secure Single-Server Aggregation with (Poly)Logarithmic Overhead
 Machine Learning Integrity and Privacy in Adversarial Environments  
 [[Recording](https://www.youtube.com/watch?v=ihp2NMIuJD4)]
 
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+<img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 24 February 2021  
 **Bristena Oprisanu (UCL)**  
 Synthetic Data - A Privacy Mirage?  
@@ -173,13 +173,13 @@ Synthetic Data - A Privacy Mirage?
 What does it mean for ML to be trustworthy?  
 [[Recording](https://www.youtube.com/watch?v=26uls-FLAfA)]
 
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+<img src="../images/graham.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 27 January 2021  
 **Graham Cormode (Warwick University)**  
 Towards Federated Analytics with Local Differential Privacy  
 [[Recording](https://www.youtube.com/watch?v=cCEgFNtWG5E)]
 
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+<img src="../images/vitaly.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 27 January 2021  
 **Vitaly Shmatikov (Cornell Tech)**  
 How to Salvage Federated Learning  
