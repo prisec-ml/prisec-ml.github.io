@@ -103,7 +103,7 @@ Quantitative Information Flow Refinement Orders and Application to DP
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 28 July 2021  
-**Kumal Talwar (Apple)**  
+**Kunal Talwar (Apple)**  
 Private Stochastic Convex Optimization  
 [[Recording](https://www.youtube.com/watch?v=gYHj_L9kKWk)]
 
@@ -133,7 +133,7 @@ Towards Transformation-Resilient Provenance Detection
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 5 May 2021  
-**Nicolas Carlini (Google Brain)**  
+**Nicholas Carlini (Google Brain)**  
 Extracting Training Data from Large Language Models  
 [[Recording](https://www.youtube.com/watch?v=RDpHBLJKaNU)]
 
