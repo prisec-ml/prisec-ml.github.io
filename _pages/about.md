@@ -73,7 +73,7 @@ Our attack is blind: the attacker cannot modify the training data, nor observe t
 
 <img src="../images/reza.jpeg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 17 November 2021  
-**Prof. Reza Shokri (National University of Singapore)**  
+**Reza Shokri (National University of Singapore)**  
 Advanced Membership Inference Attacks  
 [[Recording](https://youtu.be/Ud7-sSJTG2k)]<details><br>**Abstract:** Data Protection regulations, such as GDPR, and AI governance frameworks require personal data to be protected when used in AI systems, and that the users have control over their data and awareness about how it is being used. For example, Article 35 of GDPR requires organizations to systematically analyze, identify and minimize the data protection risks of a project, especially when it involves innovative technologies such as deep learning. Thus, proper mechanisms need to be in place to quantitatively evaluate and verify the privacy of individuals in every step of the data processing pipeline in AI systems. In this talk, I will define what data privacy is in the context of machine learning, and how it can be quantified. I will also present ML Privacy Meter tool that enables quantifying the privacy risks of machine learning models. The tool produces privacy risk analysis reports, which help in identifying data records among the training data that are under high risk of being leaked through the model parameters or predictions.<br><br>
 The privacy risk analysis in ML Privacy Meter is based on membership inference attacks. In this talk, I present a formal framework to reason about such attacks, and introduce new powerful attacks that outperform the existing attacks and are designed to precisely quantify the information leakage through models. This is a joint work with Jiayuan Ye, Aadyaa Maddi, and Sasi Murakonda<br><br>**Bio:** Reza Shokri is a NUS Presidential Young Professor of Computer Science. His research focuses on data privacy and trustworthy machine learning. He is a recipient of the IEEE Security and Privacy (S&P) Test-of-Time Award 2021, for his paper on quantifying location privacy. He received the Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies in 2018, for his work on analyzing the privacy risks of machine learning models. He received the NUS Early Career Research Award 2019, VMWare Early Career Faculty Award 2021, Intel Faculty Research Award (Private AI Collaborative Research Institute) 2021-2022, and Google PDPO Faculty Award 2021. He obtained his PhD from EPFL.<br>
@@ -81,7 +81,7 @@ The privacy risk analysis in ML Privacy Meter is based on membership inference a
 
 <img src="../images/sara.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 10 November 2021  
-**Dr. Sara Hooker (Google Brain)**  
+**Sara Hooker (Google Brain)**  
 The myth of the interpretable, robust, compact and high performance DNN  
 [[Recording](https://youtu.be/BZ3FDiXkP78)]<details><br>**Abstract:**<br>To-date, a discussion around the relative merits of different compression methods has centered on the trade-off between level of compression and top-line metrics. Along this dimension, compression techniques such as pruning and quantization are remarkably successful. It is possible to prune or heavily quantize with negligible decreases to test-set accuracy. However, top-line metrics obscure critical differences in generalization between compressed and non-compressed networks. In this talk, we will go beyond test-set accuracy and discuss some of my recent work measuring the trade-offs between compression, robustness and algorithmic bias. Characterizing these trade-offs provide insight into how capacity is used in deep neural networks -- the majority of parameters are used to represent a small fraction of the training set.<br><br>**Bio:**<br>[https://www.sarahooker.me](https://www.sarahooker.me)<br></details>
 
@@ -121,7 +121,7 @@ On the impossibility of non-trivial accuracy under fairness constraints
 
 <img src="../images/fatemeh.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 2 June 2021  
-**Fatemeh Mireshghallah (UCSD)**  
+**Fatemeh Mireshghallah (UC San Diego)**  
 Low Overhead Techniques for Privacy and Fairness of DNN Training and Inference  
 [[Recording](https://www.youtube.com/watch?v=JwoJpJoNGrg)]
 
@@ -151,7 +151,7 @@ Quantifying Privacy Risks of Machine Learning Models
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 24 March 2021  
-**James Bell (Turing Institute)**  
+**James Bell (Alan Turing Institute)**  
 Secure Single-Server Aggregation with (Poly)Logarithmic Overhead  
 [[Recording](https://www.youtube.com/watch?v=_NzClquIipo)]
 
@@ -163,8 +163,8 @@ Machine Learning Integrity and Privacy in Adversarial Environments
 
 <img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 24 February 2021  
-**Bristena Oprisanu (UCL)**  
-Synthetic Data - A Privacy Mirage?  
+**Bristena Oprisanu (UCL \& Bitfount)**  
+Synthetic Data &ndash; A Privacy Mirage?  
 [[Recording](https://www.youtube.com/watch?v=nR3Hfh4-HPI)]
 
 <img src="../images/nicolas.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
