@@ -56,7 +56,7 @@ Talk Details TBA
 ### Past Seminars
 
 <img src="../images/xiong.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 26 January 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220126T1330&p1=136))  
+- 26 January 2022  
 **Li Xiong (Emory University)**  
 Trustworthy Machine Learning with Both Differential Privacy and Certified Robustness  
 [[Recording](https://youtu.be/JCPK4wh-C88)]<details><br>**Abstract:** While deep learning models have achieved great success, they are also vulnerable to potential manipulations, ranging from model inversion attacks that attempt to infer sensitive training data from a model, to adversarial example attacks that create manipulated data instances to deceive a model.  In this talk, I will present our recent work on achieving 1) differential privacy (DP) to ensure privacy of the training data and 2) certified robustness against adversarial examples for deep learning models.  First, I will present a practical DP training framework for centralized setting with better empirical and theoretical utility (IJCAI’21).  Second, I will present a certified robustness approach via randomized smoothing for quantized neural networks (ICCV ’21). Finally, I will present a framework that kills two birds with one stone and achieves DP and certified robustness via randomized smoothing simultaneously.
@@ -64,7 +64,7 @@ Trustworthy Machine Learning with Both Differential Privacy and Certified Robust
 
 
 <img src="../images/eugene.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 1 December 2021, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20211201T1330&p1=136))  
+- 1 December 2021  
 **Eugene Bagdasaryan (Cornell Tech and Apple)**  
 Blind Backdoors in Deep Learning  
 [[Recording](https://youtu.be/TCBPX3CA5UQ)]<details><br>**Abstract:** We investigate a new method for injecting backdoors into machine learning models, based on compromising the loss-value computation in the model-training code. We use it to demonstrate new classes of backdoors strictly more powerful than those in the prior literature: single-pixel and physical backdoors in ImageNet models, backdoors that switch the model to a covert, privacy-violating task, and backdoors that do not require inference-time input modifications.<br><br>
@@ -93,7 +93,82 @@ Adversarial Preprocessing: Image-Scaling Attacks in Machine Learning
 
 
 ### Previous Iteration
-This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning ([old page](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)). We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning.
+This is a reboot of the [Turing Institute](https://www.turing.ac.uk)'s interest group in Privacy and Machine Learning. We have branched out and expanded to topics at the intersection of Security (not "just" Privacy) and Machine Learning. Here are the talks in that series:
+
+- 11 August 2021  
+**Natasha Fernandes (UNSW)**  
+Quantitative Information Flow Refinement Orders and Application to DP  
+[[Recording](https://www.youtube.com/watch?v=hdcg1_Fyexw)]
+
+- 28 July 2021  
+**Kumal Talwar (Apple)**  
+Private Stochastic Convex Optimization  
+[[Recording](https://www.youtube.com/watch?v=gYHj_L9kKWk)]
+
+- 14 July 2021  
+**Luca Demetrio (University of Cagliari)**  
+Adversarial EXEmples: Functionality-preserving Optimization  
+[[Recording](https://www.youtube.com/watch?v=CTzNID5iLcw)]
+
+- 16 June 2021  
+**Catuscia Palamidessi (INRIA)**  
+On the impossibility of non-trivial accuracy under fairness constraints  
+[[Recording](https://www.youtube.com/watch?v=FT4ywrYHx6g)]
+
+- 2 June 2021  
+**Fatemeh Mireshghallah (UCSD)**  
+Low Overhead Techniques for Privacy and Fairness of DNN Training and Inference  
+[[Recording](https://www.youtube.com/watch?v=JwoJpJoNGrg)]
+
+- 19 May 2021  
+**Jamie Hayes (DeepMind)**  
+Towards Transformation-Resilient Provenance Detection  
+[[Recording](https://www.youtube.com/watch?v=MAlpel4M2GY)]
+
+- 5 May 2021  
+**Nicolas Carlini (Google Brain)**  
+Extracting Training Data from Large Language Models  
+[[Recording](https://www.youtube.com/watch?v=RDpHBLJKaNU)]
+
+- 21 April 2021  
+**Jacob Steinhardt (UC Berkeley)**  
+The Science of Measurement in Machine Learning  
+[[Recording](https://www.youtube.com/watch?v=DqT9S2gl8iU)]
+
+- 7 April 2021  
+**Yang Zhang (CISPA)**  
+Quantifying Privacy Risks of Machine Learning Models  
+[[Recording](https://www.youtube.com/watch?v=ZdO3oetacME)]
+
+- 24 March 2021  
+**James Bell (Turing Institute)**  
+Secure Single-Server Aggregation with (Poly)Logarithmic Overhead  
+[[Recording](https://www.youtube.com/watch?v=_NzClquIipo)]
+
+- 10 March 2021  
+**Alina Oprea (Northeastern University)**  
+Machine Learning Integrity and Privacy in Adversarial Environments  
+[[Recording](https://www.youtube.com/watch?v=ihp2NMIuJD4)]
+
+- 24 February 2021  
+**Bristena Oprisanu (UCL)**  
+Synthetic Data - A Privacy Mirage?  
+[[Recording](https://www.youtube.com/watch?v=nR3Hfh4-HPI)]
+
+- 10 February 2021  
+**Nicolas Papernot (University of Toronto)**  
+What does it mean for ML to be trustworthy?  
+[[Recording](https://www.youtube.com/watch?v=26uls-FLAfA)]
+
+- 27 January 2021  
+**Graham Cormode (Warwick University)**  
+Towards Federated Analytics with Local Differential Privacy  
+[[Recording](https://www.youtube.com/watch?v=cCEgFNtWG5E)]
+
+- 27 January 2021  
+**Vitaly Shmatikov (Cornell Tech)**  
+How to Salvage Federated Learning  
+[[Recording](https://www.youtube.com/watch?v=Tx2T3LojHIQ)]
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
