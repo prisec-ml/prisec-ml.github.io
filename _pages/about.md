@@ -167,7 +167,7 @@ Machine Learning Integrity and Privacy in Adversarial Environments
 Synthetic Data - A Privacy Mirage?  
 [[Recording](https://www.youtube.com/watch?v=nR3Hfh4-HPI)]
 
-<img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+<img src="../images/nicolas.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 10 February 2021  
 **Nicolas Papernot (University of Toronto)**  
 What does it mean for ML to be trustworthy?  
