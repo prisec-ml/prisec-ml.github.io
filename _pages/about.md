@@ -43,8 +43,16 @@ Talk Details TBA
 Talk Details TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJIrduytpzwtE9Bycfnc9n4DLRFQbIbf3Isc)] [[Live Stream](https://youtu.be/4MtUbyN-vGo)]<details><br>**Abstract:**<br>**Bio:** [https://www.cs.ucr.edu/~heng/](https://www.cs.ucr.edu/~heng/)<br></details>
 
+
+<img src="../images/florian.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 20 April 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220420T1330&p1=136))  
+**Florian Tramèr (Google Brain)**  
+Talk Details TBA  
+[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://floriantramer.com](https://floriantramer.com)<br></details>
+
+
 <img src="../images/suman.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 4 May  2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220504T1400&p1=136))  
+- 4 May 2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220504T1400&p1=136))  
 **Suman Jana (Columbia University)**  
 Talk Details TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJUqcuuhpzgtGN2VpZlAmM_8q6xkBh-VygM8)] [[Live Stream](https://youtu.be/j9ol3b3azD0)]<details><br>**Abstract:**<br>**Bio:** [https://www.cs.columbia.edu/~suman/](https://www.cs.columbia.edu/~suman/)<br></details>
