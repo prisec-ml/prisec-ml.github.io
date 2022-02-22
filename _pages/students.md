@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Students in PriSecML"
-permalink: /students/
+title: "Students and Early Career Researchers in PriSecML"
+permalink: /students_and_ecrs/
 author_profile: true
 ---
 
-<br>This is the homepage of the **students** in **Privacy and Security in Machine Learning Interest Group**. 
+<br>This is the homepage of the **Students** and **Early Career Researchers (ECRs)** in **Privacy and Security in Machine Learning Interest Group**. 
 
 - To get involved, join the **Students** channel in our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-13in0oipd-FZcmFJ0r~_0D_xp3yIFuRA).**  
 
