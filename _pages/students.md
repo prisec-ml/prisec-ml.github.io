@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Students and Early Career Researchers in PriSecML"
-permalink: /students_and_ecrs/
+title: "Students and ECRs in PriSecML"
+permalink: /students_ecrs/
 author_profile: true
 ---
 
