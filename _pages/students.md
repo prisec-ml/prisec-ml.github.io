@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Students in PriSecML"
-permalink: /students
+permalink: /students/
 author_profile: true
 ---
 
