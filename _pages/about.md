@@ -18,18 +18,13 @@ title: Privacy and Security in ML Seminars
 
 
 
-<img src="../images/heng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 23 March 2022, 15:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220323T1530&p1=136))  
-**Heng Yin (UC Riverside)**  
-Learning Binary Code Representations for Security Applications  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJIrduytpzwtE9Bycfnc9n4DLRFQbIbf3Isc)] [[Live Stream](https://youtu.be/4MtUbyN-vGo)]<details><br>**Abstract:** Learning a numeric representation (also known as an embedded vector, or simply embedding) for a piece of binary code (an instruction, a basic block, a function, or even an entire program) has many important security applications, ranging from vulnerability search, plagiarism detection, to malware classification.  By reducing a binary code with complex control-flow and data-flow dependencies into a numeric vector using deep learning techniques, we convert complex binary code detection and search problems into the search of embeddings, which can be done in O(1) time and often can achieve even higher accuracy than traditional methods. In this talk, I am going to show how we can revolutionize several security applications using this approach, including vulnerability search, malware variant detection, and binary diffing.<br><br>**Bio:** Dr. Heng Yin is a Professor in the Department of Computer Science and Engineering at University of California, Riverside. He is the director of CRESP (Center for Research and Education in Cyber Security and Privacy) at UCR. He obtained his PhD degree from the College of William and Mary in 2009. His research interests lie in computer security, with emphasis on binary code analysis. His publications appear in top-notch technical conferences and journals, such as ACM CCS, USENIX Security, NDSS, TSE, TDSC, etc. His research is sponsored by National Science Foundation (NSF), Defense Advanced Research Projects Agency (DARPA), Air Force Office of Scientific Research (AFOSR), and Office of Navy Research (ONR). In 2011, he received the prestigious NSF Career award. He was a member of CodeJitsu, one of the seven finalists in DARPA Cyber Grand Challenge. He received Google Security and Privacy Research Award and ACSAC best paper award. Home: [https://www.cs.ucr.edu/~heng/](https://www.cs.ucr.edu/~heng/)<br></details>
 
 
 <img src="../images/florian.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 20 April 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220420T1330&p1=136))  
 **Florian Tramèr (Google Brain)**  
 Talk Details TBA  
-[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://floriantramer.com](https://floriantramer.com)<br></details>
+[[Zoom Registration]( https://ucl.zoom.us/meeting/register/tJ0lcOiprT8vEtZWPAG3DITNsaGfo19RM2gT)] [[Live Stream](https://www.youtube.com/watch?v=44kTB1EJPmE)]<details><br>**Abstract:**<br>**Bio:** [https://floriantramer.com](https://floriantramer.com)<br></details>
 
 
 <img src="../images/suman.png" style="float:right;width:100px;height:100px;margin-top:00px">
@@ -43,6 +38,14 @@ Talk Details TBA
 
 
 ### Past Seminars
+
+
+<img src="../images/heng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 23 March 2022, 15:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220323T1530&p1=136))  
+**Heng Yin (UC Riverside)**  
+Learning Binary Code Representations for Security Applications  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJIrduytpzwtE9Bycfnc9n4DLRFQbIbf3Isc)] [[Live Stream](https://youtu.be/4MtUbyN-vGo)]<details><br>**Abstract:** Learning a numeric representation (also known as an embedded vector, or simply embedding) for a piece of binary code (an instruction, a basic block, a function, or even an entire program) has many important security applications, ranging from vulnerability search, plagiarism detection, to malware classification.  By reducing a binary code with complex control-flow and data-flow dependencies into a numeric vector using deep learning techniques, we convert complex binary code detection and search problems into the search of embeddings, which can be done in O(1) time and often can achieve even higher accuracy than traditional methods. In this talk, I am going to show how we can revolutionize several security applications using this approach, including vulnerability search, malware variant detection, and binary diffing.<br><br>**Bio:** Dr. Heng Yin is a Professor in the Department of Computer Science and Engineering at University of California, Riverside. He is the director of CRESP (Center for Research and Education in Cyber Security and Privacy) at UCR. He obtained his PhD degree from the College of William and Mary in 2009. His research interests lie in computer security, with emphasis on binary code analysis. His publications appear in top-notch technical conferences and journals, such as ACM CCS, USENIX Security, NDSS, TSE, TDSC, etc. His research is sponsored by National Science Foundation (NSF), Defense Advanced Research Projects Agency (DARPA), Air Force Office of Scientific Research (AFOSR), and Office of Navy Research (ONR). In 2011, he received the prestigious NSF Career award. He was a member of CodeJitsu, one of the seven finalists in DARPA Cyber Grand Challenge. He received Google Security and Privacy Research Award and ACSAC best paper award. Home: [https://www.cs.ucr.edu/~heng/](https://www.cs.ucr.edu/~heng/)<br></details>
+
 
 <img src="../images/giulia.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 23 February 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220223T1330&p1=136))  
