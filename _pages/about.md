@@ -17,9 +17,6 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 
-
-
-
 <img src="../images/florian.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 20 April 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220420T1330&p1=136))  
 **Florian Tramèr (Google Brain)**  
@@ -32,6 +29,14 @@ Talk Details TBA
 **Suman Jana (Columbia University)**  
 Talk Details TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJUqcuuhpzgtGN2VpZlAmM_8q6xkBh-VygM8)] [[Live Stream](https://youtu.be/j9ol3b3azD0)]<details><br>**Abstract:**<br>**Bio:** [https://www.cs.columbia.edu/~suman/](https://www.cs.columbia.edu/~suman/)<br></details>
+
+
+
+<img src="../images/neil.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 18 May 2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220518T1400&p1=136))  
+**Neil Zhenqiang Gong (Duke University)**  
+Talk Details TBA  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJ0tc-yorzIqG9cc1O6fGdhmGBKIBnYrysLG)] [[Live Stream](https://www.youtube.com/watch?v=PdMUuRG-cmA)]<details><br>**Abstract:**<br>**Bio:** [https://people.duke.edu/~zg70/](https://people.duke.edu/~zg70/)<br></details>
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
