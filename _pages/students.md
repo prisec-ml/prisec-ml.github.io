@@ -13,12 +13,12 @@ To get involved, join the #students channel in our **[Slack](https://join.slack.
 
 ### Upcoming Seminars:
 
-<img src="../images/fatemeh.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 9 March 2022, 18:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220309T18&p1=136))  
-**Fatemeh Mireshghallah (UC San Diego)**  
-What Does it Mean for a Language Model to Preserve Privacy?  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJUpdOGvrzgiHdc3Drg4n52HjrY9gCdWhZvn)] [[Live Stream](https://youtu.be/SLMCWfJVe7M)]<details><br>**Abstract:** Natural language reflects our private lives and identities, making its privacy concerns as broad as those of real life. Language models lack the ability to understand the context and sensitivity of text, and tend to memorize phrases present in their training sets. In this talk, we first discuss the potential risks of language models, and then focus on what is required for a language model to be considered privacy preserving, and what the challenges are in making it happen. Then we discuss the mismatch between the narrow assumptions made by popular data protection techniques (data sanitization and differential privacy), and the broadness of natural language and of privacy as a social norm. Finally, we see other alternatives and have a discussion on what the possible paths forward are.<br>
-<br>**Bio:** [https://cseweb.ucsd.edu/~fmireshg/](https://cseweb.ucsd.edu/~fmireshg/)<br></details>
+<img src="../images/ana-maria.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 30 March 2022, 18:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220330T18&p1=136))  
+**Ana-Maria Cretu (Imperial College London)**  
+Interaction data are identifiable even across long periods of time  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJMsc-murT8sHtTxQsrfVUM5ELkcbUsjLT8I)] [[Live Stream](https://youtu.be/pDHF4w2FZqA)]<details><br>**Abstract:** Fine-grained records of people’s interactions, both offline and online, are collected at large scale. These data contain sensitive information about whom we meet, talk to, and when. We demonstrate here how people’s interaction behavior is stable over long periods of time and can be used to identify individuals in anonymous datasets. Our attack learns the profile of an individual using geometric deep learning and triplet loss optimization. In a mobile phone metadata dataset of more than 40k people, it correctly identifies 52% of individuals based on their 2-hop interaction graph. We further show that the profiles learned by our method are stable over time and that 24% of people are still identifiable after 20 weeks. Our results suggest that people with well-balanced interaction graphs are more identifiable. Applying our attack to Bluetooth close-proximity networks, we show that even 1-hop interaction graphs are enough to identify people more than 26% of the time. Our results provide strong evidence that disconnected and even re-pseudonymized interaction data can be linked together making them personal data under the European Union’s General Data Protection Regulation.<br>
+<br>**Bio:** [https://ana-mariacretu.github.io/](https://ana-mariacretu.github.io/)<br></details>
 
 
 <!-- ### Past Seminars: -->
@@ -26,6 +26,13 @@ What Does it Mean for a Language Model to Preserve Privacy?
 <!-- ### Upcoming Research Talks: -->
 
 ### Past Research Talks:
+<img src="../images/fatemeh.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 9 March 2022, 18:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220309T18&p1=136))  
+**Fatemeh Mireshghallah (UC San Diego)**  
+What Does it Mean for a Language Model to Preserve Privacy?  
+[[Recording](https://ucl.zoom.us/rec/share/aiPoUa5CjeXTdoIe91wGwLoY8EJS1mdw2cv9M2kttluNHhjthH9JqUadr_AwmTjt.7xWpjQlOLc76yqey?startTime=1646849305000 (Passcode: Z*13PSq*))] <details><br>**Abstract:** Natural language reflects our private lives and identities, making its privacy concerns as broad as those of real life. Language models lack the ability to understand the context and sensitivity of text, and tend to memorize phrases present in their training sets. In this talk, we first discuss the potential risks of language models, and then focus on what is required for a language model to be considered privacy preserving, and what the challenges are in making it happen. Then we discuss the mismatch between the narrow assumptions made by popular data protection techniques (data sanitization and differential privacy), and the broadness of natural language and of privacy as a social norm. Finally, we see other alternatives and have a discussion on what the possible paths forward are.<br>
+<br>**Bio:** [https://cseweb.ucsd.edu/~fmireshg/](https://cseweb.ucsd.edu/~fmireshg/)<br></details>
+
 <img src="../images/meta_ai_3.jpg" style="float:right;width:300px;height:100px;margin-top:00px">
 - 2 March 2022  
 **Alexandre Sablayrolles**, **Pierre Stock**, and **Igor Shilov**  
