@@ -34,7 +34,7 @@ Talk Details TBA
 
 
 
-<img src="../images/neil.png" style="float:right;width:100px;height:100px;margin-top:00px">
+<img src="../images/neil.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 18 May 2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220518T1400&p1=136))  
 **Neil Zhenqiang Gong (Duke University)**  
 Talk Details TBA  
