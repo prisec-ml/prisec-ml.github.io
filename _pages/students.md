@@ -27,7 +27,7 @@ Interaction data are identifiable even across long periods of time
 
 ### Past Research Talks:
 <img src="../images/fatemeh.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 9 March 2022
+- 9 March 2022  
 **Fatemeh Mireshghallah (UC San Diego)**  
 What Does it Mean for a Language Model to Preserve Privacy?  
 [[Recording](https://ucl.zoom.us/rec/share/aiPoUa5CjeXTdoIe91wGwLoY8EJS1mdw2cv9M2kttluNHhjthH9JqUadr_AwmTjt.7xWpjQlOLc76yqey?startTime=1646849305000 (Passcode: Z*13PSq*))] <details><br>**Abstract:** Natural language reflects our private lives and identities, making its privacy concerns as broad as those of real life. Language models lack the ability to understand the context and sensitivity of text, and tend to memorize phrases present in their training sets. In this talk, we first discuss the potential risks of language models, and then focus on what is required for a language model to be considered privacy preserving, and what the challenges are in making it happen. Then we discuss the mismatch between the narrow assumptions made by popular data protection techniques (data sanitization and differential privacy), and the broadness of natural language and of privacy as a social norm. Finally, we see other alternatives and have a discussion on what the possible paths forward are.<br>
