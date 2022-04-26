@@ -17,13 +17,6 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 
-<img src="../images/florian.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 20 April 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220420T1330&p1=136))  
-**Florian Tramèr (Google Brain & ETH)**  
-From average-case to worst-case privacy leakage in neural networks  
-[[Zoom Registration]( https://ucl.zoom.us/meeting/register/tJ0lcOiprT8vEtZWPAG3DITNsaGfo19RM2gT)] [[Live Stream](https://www.youtube.com/watch?v=44kTB1EJPmE)]<details><br>**Abstract:** Deep neural networks' ability to memorize parts of their training data is a privacy concern for models trained on user data. Yet, this privacy risk is not uniform across data points.
-I'll first show how an adversary can identify a small fraction of "worst-case" training samples with very high precision (>10x higher than in prior work), by combining a number of ideas from the literature. Then, I'll introduce a new privacy-poisoning attack on machine learning models, that succeeds in re-identifying *any* training sample with high precision. Our new attack shows that against a determined adversary, the privacy risk of the average data point is similar to the risk of the worst-case data point.
-I'll conclude by discussing how attacks can be used to audit the correctness of differential privacy defenses.<br><br>**Bio:** Florian Tramèr is a visiting researcher at Google Brain and an assistant professor of computer science at ETH Zurich. His research interests lie in Computer Security, Cryptography and Machine Learning security. In his current work, he studies the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users. Homepage: [https://floriantramer.com](https://floriantramer.com)<br></details>
 
 
 <img src="../images/suman.png" style="float:right;width:100px;height:100px;margin-top:00px">
@@ -40,12 +33,28 @@ Scalable, Accurate, Robust Binary Analysis with Transfer Learning
 Talk Details TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJ0tc-yorzIqG9cc1O6fGdhmGBKIBnYrysLG)] [[Live Stream](https://www.youtube.com/watch?v=PdMUuRG-cmA)]<details><br>**Abstract:**<br>**Bio:** [https://people.duke.edu/~zg70/](https://people.duke.edu/~zg70/)<br></details>
 
+
+
+<img src="../images/ben.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 15 June 2022, 14:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220615T1430&p1=136))  
+**Ben Y. Zhao (University of Chicago)**  
+Talk Details TBA  
+[[Zoom Registration]()] [[Live Stream]()]<details><br>**Abstract:**<br>**Bio:** [https://cs.uchicago.edu/people/ben-y-zhao/](https://cs.uchicago.edu/people/ben-y-zhao/)<br></details>
+
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 
 
 ### Past Seminars
 
+
+<img src="../images/florian.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 20 April 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220420T1330&p1=136))  
+**Florian Tramèr (Google Brain & ETH)**  
+From average-case to worst-case privacy leakage in neural networks  
+[[[Recording](https://www.youtube.com/watch?v=44kTB1EJPmE)]<details><br>**Abstract:** Deep neural networks' ability to memorize parts of their training data is a privacy concern for models trained on user data. Yet, this privacy risk is not uniform across data points.
+I'll first show how an adversary can identify a small fraction of "worst-case" training samples with very high precision (>10x higher than in prior work), by combining a number of ideas from the literature. Then, I'll introduce a new privacy-poisoning attack on machine learning models, that succeeds in re-identifying *any* training sample with high precision. Our new attack shows that against a determined adversary, the privacy risk of the average data point is similar to the risk of the worst-case data point.
+I'll conclude by discussing how attacks can be used to audit the correctness of differential privacy defenses.<br><br>**Bio:** Florian Tramèr is a visiting researcher at Google Brain and an assistant professor of computer science at ETH Zurich. His research interests lie in Computer Security, Cryptography and Machine Learning security. In his current work, he studies the worst-case behavior of Deep Learning systems from an adversarial perspective, to understand and mitigate long-term threats to the safety and privacy of users. Homepage: [https://floriantramer.com](https://floriantramer.com)<br></details>
 
 <img src="../images/heng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 23 March 2022, 15:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220323T1530&p1=136))  
