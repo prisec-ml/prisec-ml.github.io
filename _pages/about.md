@@ -17,8 +17,6 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 
-
-
 <img src="../images/suman.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 4 May 2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220504T1400&p1=136))  
 **Suman Jana (Columbia University)**  
@@ -28,11 +26,10 @@ Scalable, Accurate, Robust Binary Analysis with Transfer Learning
 
 
 <img src="../images/neil.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 18 May 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220518T1330&p1=136))  
+- 18 May 2022, 14:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220518T1430&p1=136))  
 **Neil Zhenqiang Gong (Duke University)**  
-Talk Details TBA  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJ0tc-yorzIqG9cc1O6fGdhmGBKIBnYrysLG)] [[Live Stream](https://www.youtube.com/watch?v=PdMUuRG-cmA)]<details><br>**Abstract:**<br>**Bio:** [https://people.duke.edu/~zg70/](https://people.duke.edu/~zg70/)<br></details>
-
+Secure Self-supervised Learning  
+[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJ0tc-yorzIqG9cc1O6fGdhmGBKIBnYrysLG)] [[Live Stream](https://www.youtube.com/watch?v=PdMUuRG-cmA)]<details><br>**Abstract:** Self-supervised learning has made revolutionary progress in the past several years and is commonly believed to be a promising approach for general-purpose AI. In particular, self-supervised learning aims to pre-train an encoder (also known as foundation model) using a large amount of unlabeled data. The pre-trained encoder is like an "operating system" of the AI ecosystem. Specifically, the encoder can be used as a general-purpose feature extractor for many downstream tasks with little or even no labeled training data. In this talk, we will discuss the security of pre-trained encoders. Studying the security of pre-trained encoders is like studying the operating-system-level security of AI. In the first part of this talk, we will show that an attacker can embed a backdoor into a pre-trained encoder, such that multiple downstream classifiers built based on the backdoored encoder inherit the backdoor behavior simultaneously. AI companies often use our public data on the Internet to pre-train encoders even if we didn't authorize them to do so. Therefore, in the second part of this talk, we will discuss a method to audit unauthorized data use in pre-training encoders.<br><br>**Bio:** Neil Gong is an Assistant Professor in the Department of Electrical and Computer Engineering and Department of Computer Science (secondary appointment) at Duke University. He is interested in cybersecurity and data privacy with a recent focus on the intersections between security, privacy, and machine learning. He received an NSF CAREER Award, ARO Young Investigator Program (YIP) Award, Rising Star Award from the Association of Chinese Scholars in Computing, IBM Faculty Award, Facebook Research Award, and multiple best paper or best paper honorable mention awards. He received a B.E. from the University of Science and Technology of China in 2010 (with the highest honor) and a Ph.D. in Computer Science from the University of California, Berkeley in 2015. Homepage: [https://people.duke.edu/~zg70/](https://people.duke.edu/~zg70/)<br></details>
 
 
 <img src="../images/ben.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
