@@ -48,4 +48,5 @@ What Does it Mean for a Language Model to Preserve Privacy?
 
 ### Organizers
 - [Dr. Mohammad Malekzadeh](https://mmalekzadeh.github.io/), Imperial College London   
-- [Georgi Ganev](https://ganevgv.github.io/), University College London (UCL) & Hazy  
+- [Georgi Ganev](https://ganevgv.github.io/), University College London (UCL) & Hazy
+- [Ranya Aloufi](https://ranyajumah.github.io/), Imperial College London
