@@ -28,7 +28,7 @@ Scalable, Accurate, Robust Binary Analysis with Transfer Learning
 
 
 <img src="../images/neil.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 18 May 2022, 14:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220518T1400&p1=136))  
+- 18 May 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220518T1330&p1=136))  
 **Neil Zhenqiang Gong (Duke University)**  
 Talk Details TBA  
 [[Zoom Registration](https://ucl.zoom.us/meeting/register/tJ0tc-yorzIqG9cc1O6fGdhmGBKIBnYrysLG)] [[Live Stream](https://www.youtube.com/watch?v=PdMUuRG-cmA)]<details><br>**Abstract:**<br>**Bio:** [https://people.duke.edu/~zg70/](https://people.duke.edu/~zg70/)<br></details>
