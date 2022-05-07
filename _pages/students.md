@@ -13,19 +13,21 @@ To get involved, join the #students channel in our **[Slack](https://join.slack.
 
 ### Upcoming Seminars:
 
-<img src="../images/ana-maria.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 30 March 2022, 18:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220330T18&p1=136))  
-**Ana-Maria Cretu (Imperial College London)**  
-Interaction data are identifiable even across long periods of time  
-[[Zoom Registration](https://ucl.zoom.us/meeting/register/tJMsc-murT8sHtTxQsrfVUM5ELkcbUsjLT8I)] [[Live Stream](https://youtu.be/pDHF4w2FZqA)]<details><br>**Abstract:** Fine-grained records of people’s interactions, both offline and online, are collected at large scale. These data contain sensitive information about whom we meet, talk to, and when. We demonstrate here how people’s interaction behavior is stable over long periods of time and can be used to identify individuals in anonymous datasets. Our attack learns the profile of an individual using geometric deep learning and triplet loss optimization. In a mobile phone metadata dataset of more than 40k people, it correctly identifies 52% of individuals based on their 2-hop interaction graph. We further show that the profiles learned by our method are stable over time and that 24% of people are still identifiable after 20 weeks. Our results suggest that people with well-balanced interaction graphs are more identifiable. Applying our attack to Bluetooth close-proximity networks, we show that even 1-hop interaction graphs are enough to identify people more than 26% of the time. Our results provide strong evidence that disconnected and even re-pseudonymized interaction data can be linked together making them personal data under the European Union’s General Data Protection Regulation.<br>
-<br>**Bio:** [https://ana-mariacretu.github.io/](https://ana-mariacretu.github.io/)<br></details>
-
 
 <!-- ### Past Seminars: -->
 
 <!-- ### Upcoming Research Talks: -->
 
 ### Past Research Talks:
+
+<img src="../images/ana-maria.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 30 March 2022, 18:00 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220330T18&p1=136))  
+**Ana-Maria Cretu (Imperial College London)**  
+Interaction data are identifiable even across long periods of time  
+[[Recording](https://youtu.be/pDHF4w2FZqA)]<details><br>**Abstract:** Fine-grained records of people’s interactions, both offline and online, are collected at large scale. These data contain sensitive information about whom we meet, talk to, and when. We demonstrate here how people’s interaction behavior is stable over long periods of time and can be used to identify individuals in anonymous datasets. Our attack learns the profile of an individual using geometric deep learning and triplet loss optimization. In a mobile phone metadata dataset of more than 40k people, it correctly identifies 52% of individuals based on their 2-hop interaction graph. We further show that the profiles learned by our method are stable over time and that 24% of people are still identifiable after 20 weeks. Our results suggest that people with well-balanced interaction graphs are more identifiable. Applying our attack to Bluetooth close-proximity networks, we show that even 1-hop interaction graphs are enough to identify people more than 26% of the time. Our results provide strong evidence that disconnected and even re-pseudonymized interaction data can be linked together making them personal data under the European Union’s General Data Protection Regulation.<br>
+<br>**Bio:** [https://ana-mariacretu.github.io/](https://ana-mariacretu.github.io/)<br></details>
+
+
 <img src="../images/fatemeh.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 9 March 2022  
 **Fatemeh Mireshghallah (UC San Diego)**  
