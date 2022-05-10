@@ -196,7 +196,7 @@ Machine Learning Integrity and Privacy in Adversarial Environments
 
 <img src="../images/bristena.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - 24 February 2021  
-**Bristena Oprisanu (UCL \& Bitfount)**  
+**Bristena Oprisanu (UCL & Bitfount)**  
 Synthetic Data &ndash; A Privacy Mirage?  
 [[Recording](https://www.youtube.com/watch?v=nR3Hfh4-HPI)]
 
