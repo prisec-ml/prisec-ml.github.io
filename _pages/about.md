@@ -220,5 +220,5 @@ How to Salvage Federated Learning
 ### Organizers
 - [Prof. Emiliano De Cristofaro](https://emilianodc.com/), UCL  
 - [Prof. Lorenzo Cavallaro](https://s2lab.cs.ucl.ac.uk/people/sullivan), UCL  
-- [Dr. Yang Zhang](https://yangzhangalmo.github.io),  CISPA Helmholtz Center for Information Security  
+- [Dr. Yang Zhang](https://yangzhangalmo.github.io), CISPA Helmholtz Center for Information Security  
 
