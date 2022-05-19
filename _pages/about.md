@@ -218,7 +218,9 @@ How to Salvage Federated Learning
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ### Organizers
+<img src="../images/emiliano.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - [Prof. Emiliano De Cristofaro](https://emilianodc.com/), UCL  
+
 - [Prof. Lorenzo Cavallaro](https://s2lab.cs.ucl.ac.uk/people/sullivan), UCL  
 - [Dr. Yang Zhang](https://yangzhangalmo.github.io), CISPA Helmholtz Center for Information Security  
 
