@@ -32,8 +32,8 @@ Adversarial Robustness via Forensics in Deep Neural Networks
 
 <img src="../images/cat.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 28 June 2022, 13:30 ([UK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220628T1330&p1=136))  
-**Soham De and Leonard Berrada (DeepMind)**
-Unlocking High-Accuracy Differentially Private Image Classification through Scale  
+**Soham De and Leonard Berrada (DeepMind)**  
+Unlocking High-Accuracy Differentially Private Image Classification through Scale (TBC)  
 [[Join on Zoom]()] [[Live Stream]()]<details>TBA</details>
 
 
