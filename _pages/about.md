@@ -17,6 +17,7 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 
+- We're taking a break for the summer. See you in September!  
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
