@@ -228,6 +228,13 @@ How to Salvage Federated Learning
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ### Organizers
+<img src="../images/yang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- **Dr. Yang Zhang**  
+Faculty Member<br>
+CISPA Helmholtz Center for Information Security<br>
+[https://yangzhangalmo.github.io](https://yangzhangalmo.github.io)<br>
+
+
 <img src="../images/emiliano.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - **Prof. Emiliano De Cristofaro**  
 Professor of Security and Privacy Enhancing Technologies<br>
@@ -239,10 +246,4 @@ University College London (UCL)<br>
 Professor of Computer Science, <em>Leader of the <a href="https://s2lab.cs.ucl.ac.uk">Systems Security Research Lab</a></em><br>
 University College London (UCL)<br>
 [https://s2lab.cs.ucl.ac.uk/people/sullivan](https://s2lab.cs.ucl.ac.uk/people/sullivan)<br>
-
-<img src="../images/yang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- **Dr. Yang Zhang**  
-Faculty Member<br>
-CISPA Helmholtz Center for Information Security<br>
-[https://yangzhangalmo.github.io](https://yangzhangalmo.github.io)<br>
 
