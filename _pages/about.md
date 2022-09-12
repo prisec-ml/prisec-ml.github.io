@@ -18,11 +18,31 @@ title: Privacy and Security in ML Seminars
 
 
 
-<img src="../images/deepmind.jpg" style="float:right;width:200px;height:100px;margin-top:00px">
+<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
 - 28th September 2022  
 **Tianhao Wang (University of Virginia)**  
-Unlocking High-Accuracy Differentially Private Image Classification through Scale  
+TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
+
+<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
+- 28th September 2022  
+**Matthew Jagielski (Google Research)**  
+TBD  
+[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
+
+<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
+- 28th September 2022  
+**Varun Chandrasekaran (University of Illinois Urbana-Champaign)**  
+TBD  
+[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
+
+
+<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
+- 28th September 2022  
+**Ahmed Salem (Microsoft Research)**  
+TBD  
+[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
+
 
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
