@@ -18,27 +18,27 @@ title: Privacy and Security in ML Seminars
 
 
 
-<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
+<img src="../images/tianhao.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 28th September 2022  
 **Tianhao Wang (University of Virginia)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
 
-<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
-- 28th September 2022  
+<img src="../images/matthew.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 5th October 2022  
 **Matthew Jagielski (Google Research)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
 
-<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
-- 28th September 2022  
+<img src="../images/varun.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 26th October 2022  
 **Varun Chandrasekaran (University of Illinois Urbana-Champaign)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
 
 
-<img src="../images/ahmed.png" style="float:right;width:200px;height:100px;margin-top:00px">
-- 28th September 2022  
+<img src="../images/ahmed.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 7th December 2022  
 **Ahmed Salem (Microsoft Research)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
