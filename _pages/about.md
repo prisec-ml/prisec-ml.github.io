@@ -32,7 +32,7 @@ TBD
 
 <img src="../images/varun.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 26th October 2022  
-**Varun Chandrasekaran (University of Illinois Urbana-Champaign)**  
+**Varun Chandrasekaran (Microsoft Research)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
 
