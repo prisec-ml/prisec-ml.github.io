@@ -37,6 +37,12 @@ TBD
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
 
 
+<img src="../images/binghui.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 23rd November 2022  
+**Binghui Wang (Illinois Institute of Technology)**  
+TBD  
+[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
+
 <img src="../images/ahmed.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 7th December 2022  
 **Ahmed Salem (Microsoft Research)**  
