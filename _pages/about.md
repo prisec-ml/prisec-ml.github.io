@@ -37,7 +37,7 @@ TBD
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bios:** </details>
 
 
-<img src="" style="float:right;width:200px;height:100px;margin-top:00px">
+<img src="../images/ahmed.png" style="float:right;width:200px;height:100px;margin-top:00px">
 - 28th September 2022  
 **Ahmed Salem (Microsoft Research)**  
 TBD  
