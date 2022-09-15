@@ -18,7 +18,7 @@ title: Privacy and Security in ML Seminars
 
 
 
-<img src="../images/tianhao.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+<img src="../images/tianhao.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 28th September 2022  
 **Tianhao Wang (University of Virginia)**  
 Continuous Release of Data Streams under Differential Privacy  
