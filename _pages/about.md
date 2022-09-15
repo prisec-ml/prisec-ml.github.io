@@ -19,32 +19,32 @@ title: Privacy and Security in ML Seminars
 
 
 <img src="../images/tianhao.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 28th September 2022  
+- 3:30pm (CET), 28th September 2022  
 **Tianhao Wang (University of Virginia)**  
 Continuous Release of Data Streams under Differential Privacy  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:** Most differential privacy (DP) algorithms are designed to handle static data. Handling dynamic data with DP is a challenge. In this talk, I will summarize existing solusions towards dynamic data. As a special case, I will then talk into details about our recent CCS paper for publishing a stream of real-valued data satisfying DP. Here one major challenge is that the maximal possible value in the stream can be quite large, leading to enormous DP noise and bad utility. To overcome this problem, we use a commonly seen technique called truncation. Our idea is to find an optimal truncation parameter (approximately, satisfying DP) achieving a balance between bias and variance. I will present our complete solution which consists of (in addition to truncation) an online hierarchical method and a post-processing step. <br><br>**Bio:** Tianhao Wang is an assistant professor of computer science at the University of Virginia. He also hold a secondary appointment at the School of Data Science. His research interests lie in data privacy and security, and their connections to machine learning, cryptography, and human factors. He obtained his Ph.D. from Purdue University in 2021 and held a postdoc position at Carnegie Mellon University. His work about differentially private synthetic data generation won multiple awards in NIST's competition.  </details>
 
 <img src="../images/matthew.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 5th October 2022  
+- 3:30pm (CET), 5th October 2022  
 **Matthew Jagielski (Google Research)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
 
 <img src="../images/varun.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 26th October 2022  
+- 3:30pm (CET), 26th October 2022  
 **Varun Chandrasekaran (Microsoft Research)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
 
 
 <img src="../images/binghui.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 23rd November 2022  
+- 3:30pm (CET), 23rd November 2022  
 **Binghui Wang (Illinois Institute of Technology)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
 
 <img src="../images/ahmed.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 7th December 2022  
+- 3:30pm (CET), 7th December 2022  
 **Ahmed Salem (Microsoft Research)**  
 TBD  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
