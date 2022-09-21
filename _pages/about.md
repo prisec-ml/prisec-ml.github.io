@@ -9,7 +9,7 @@ title: Privacy and Security in ML Seminars
 
 ### Get Involved
 - Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar, jobs, and event announcements
-- Join our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-1eq69ns80-IdpZHk54ZZ4NKQYu6ErRlg)** &ndash; this is particularly useful for students, who maintain an active working group
+- Join our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-1gibtwzj6-DYzbOxFbj_4TmJ6nVjGAIQ)** &ndash; this is particularly useful for students, who maintain an active working group
 - Follow us on **[Twitter](https://twitter.com/prisec_ml)**
 - Subscribe to our **[YouTube channel](http://youtube.com/c/PrivacyandMachineLearningInterestGroup)** where we live stream and keep recordings of the talks
 
