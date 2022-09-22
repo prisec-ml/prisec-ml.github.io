@@ -27,8 +27,8 @@ Continuous Release of Data Streams under Differential Privacy
 <img src="../images/matthew.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 5th October 2022  
 **Matthew Jagielski (Google Research)**  
-TBD  
-[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
+Some Results on Privacy and Machine Unlearning  
+[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:** Machine unlearning has received significant attention recently as a result of regulations promoting the "right to be forgotten". Recent work (Chen et al. 2021) has shown that machine unlearning can lead to easier membership inference attacks on deleted points. In this talk, I will discuss a couple other interesting privacy phenomena related to machine unlearning. First, I will discuss how deleting a record may make membership inference easier on other records, in the "privacy onion effect". Next, I will discuss how training on very large datasets can lead to "forgetting", and I will discuss the relationship between forgetting and machine unlearning. <br><br>**Bio:** Matthew is a research scientist at Google on the Brain Privacy and Security team. He works at the intersection of privacy, security and machine learning. He received his PhD from Northeastern University. </details>
 
 <img src="../images/varun.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 26th October 2022  
