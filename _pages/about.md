@@ -52,14 +52,14 @@ TBD
 ### Past Seminars
 
 <img src="../images/matthew.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 5th October 2022  
+- 5th October 2022  
 **Matthew Jagielski (Google Research)**  
 Some Results on Privacy and Machine Unlearning  
 [[Recording](https://www.youtube.com/watch?v=Dcd_dzBWgQE)]<details><br>**Abstract:** Machine unlearning has received significant attention recently as a result of regulations promoting the "right to be forgotten". Recent work (Chen et al. 2021) has shown that machine unlearning can lead to easier membership inference attacks on deleted points. In this talk, I will discuss a couple other interesting privacy phenomena related to machine unlearning. First, I will discuss how deleting a record may make membership inference easier on other records, in the "privacy onion effect". Next, I will discuss how training on very large datasets can lead to "forgetting", and I will discuss the relationship between forgetting and machine unlearning. <br><br>**Bio:** Matthew is a research scientist at Google on the Brain Privacy and Security team. He works at the intersection of privacy, security and machine learning. He received his PhD from Northeastern University. </details>
 
 
 <img src="../images/tianhao.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 28th September 2022  
+- 28th September 2022  
 **Tianhao Wang (University of Virginia)**  
 Continuous Release of Data Streams under Differential Privacy  
 [[Recording](https://www.youtube.com/watch?v=RhSDyF953X8)]<details><br>**Abstract:** Most differential privacy (DP) algorithms are designed to handle static data. Handling dynamic data with DP is a challenge. In this talk, I will summarize existing solusions towards dynamic data. As a special case, I will then talk into details about our recent CCS paper for publishing a stream of real-valued data satisfying DP. Here one major challenge is that the maximal possible value in the stream can be quite large, leading to enormous DP noise and bad utility. To overcome this problem, we use a commonly seen technique called truncation. Our idea is to find an optimal truncation parameter (approximately, satisfying DP) achieving a balance between bias and variance. I will present our complete solution which consists of (in addition to truncation) an online hierarchical method and a post-processing step. <br><br>**Bio:** Tianhao Wang is an assistant professor of computer science at the University of Virginia. He also hold a secondary appointment at the School of Data Science. His research interests lie in data privacy and security, and their connections to machine learning, cryptography, and human factors. He obtained his Ph.D. from Purdue University in 2021 and held a postdoc position at Carnegie Mellon University. His work about differentially private synthetic data generation won multiple awards in NIST's competition.  </details>
