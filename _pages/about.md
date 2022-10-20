@@ -21,8 +21,8 @@ title: Privacy and Security in ML Seminars
 <img src="../images/varun.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 26th October 2022  
 **Varun Chandrasekaran (Microsoft Research)**  
-TBD  
-[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  <br><br>**Bio:** </details>
+Interdisciplinary Research Yields New Insights: A Case-Study in Privacy & ML  
+[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:** Machine learning has enabled innovations in a variety of areas. However, “privacy in machine learning” is still not well established and is an area of active research. In this talk, I will describe how we approach this problem by drawing insight from different areas in computer science. First, I will discuss how “more utilitarian” private data can be synthesized using generative models aided by causality. Next, I will attempt to shed more light on the efficacy of privacy attacks by connecting it to label memorization. Then, I will discuss how cryptography helps enable a new swarth of private ML applications. <br><br>**Bio:** Varun Chandrasekaran is a post-doctoral researcher in the Adaptive Systems and Interaction group at Microsoft Research. He is also an adjunct assistant professor at the University of Illinois Urbana-Champaign, where he will join the ECE department full-time in 2023. </details>
 
 
 <img src="./images/xuechen.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
