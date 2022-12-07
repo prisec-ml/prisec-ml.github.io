@@ -18,19 +18,19 @@ title: Privacy and Security in ML Seminars
 
 
 
-<img src="../images/ahmed.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 7th December 2022  
-**Ahmed Salem (Microsoft Research)**  
-Adversarial Exploration of Machine Learning Models' Accountability  
-[[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)] <details><br>**Abstract:**  The increasing cost of training machine learning (ML) models has led to the inclusion of new parties to the training pipeline, such as users who contribute training data. This involvement of new parties in the ML training process has introduced new training time attack surfaces for an adversary to exploit. In this talk, we will discuss a new class of training time attacks, namely the model hijacking attack, whereby the adversary aims to hijack a target model to execute a different task than its original one. Model hijacking can cause accountability risks since a hijacked model's owner can be framed for having their model offer illegal or unethical services. First,  we will introduce the hijacking attack in simple settings where the hijacking and original tasks/data are of the same modality. Next, we will discuss how the model hijacking attack can be generalized to the multimodal setting.<br><br>**Bio:** Ahmed Salem is a post-doctoral researcher in the Confidential Computing group at Microsoft Research. His research interests lie in the intersection of accountability, privacy, security, and machine learning. He obtained his Ph.D. from Saarland University (CISPA) in 2022. Homepage: https://ahmedsalem2.github.io/ </details>
-
-
-
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 
 
 ### Past Seminars
+
+<img src="../images/ahmed.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 7th December 2022  
+**Ahmed Salem (Microsoft Research)**  
+Adversarial Exploration of Machine Learning Models' Accountability  
+[[Recording](https://youtu.be/rM3mjAgv2Q8)] <details><br>**Abstract:**  The increasing cost of training machine learning (ML) models has led to the inclusion of new parties to the training pipeline, such as users who contribute training data. This involvement of new parties in the ML training process has introduced new training time attack surfaces for an adversary to exploit. In this talk, we will discuss a new class of training time attacks, namely the model hijacking attack, whereby the adversary aims to hijack a target model to execute a different task than its original one. Model hijacking can cause accountability risks since a hijacked model's owner can be framed for having their model offer illegal or unethical services. First,  we will introduce the hijacking attack in simple settings where the hijacking and original tasks/data are of the same modality. Next, we will discuss how the model hijacking attack can be generalized to the multimodal setting.<br><br>**Bio:** Ahmed Salem is a post-doctoral researcher in the Confidential Computing group at Microsoft Research. His research interests lie in the intersection of accountability, privacy, security, and machine learning. He obtained his Ph.D. from Saarland University (CISPA) in 2022. Homepage: https://ahmedsalem2.github.io/ </details>
+
+
 
 <img src="./images/xuechen.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 9th November 2022  
