@@ -17,7 +17,7 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 <img src="../images/shawn.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 7th December 2022  
+- 22nd March 2023  
 **Shawn Shan (University of Chicago)**  
 TBD  
 <details><br>**Abstract:**  <br><br>**Bio:**  </details>
