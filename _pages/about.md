@@ -17,17 +17,17 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 <img src="../images/jinyuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 5th April 2023  
+- 3:30pm (CET), 5th April 2023  
 **Jinyuan Jia (UIUC)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/shawn.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 22nd March 2023  
+- 3:30pm (CET), 22nd March 2023  
 **Shawn Shan (University of Chicago)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/wenbo.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 8th March 2023  
+- 3:30pm (CET), 8th March 2023  
 **Wenbo Guo (UC Berkeley)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
