@@ -19,8 +19,7 @@ title: Privacy and Security in ML Seminars
 <img src="../images/shawn.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 22nd March 2023  
 **Shawn Shan (University of Chicago)**  
-TBD  
-<details><br>**Abstract:**  <br><br>**Bio:**  </details>
+TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
