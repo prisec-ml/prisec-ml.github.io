@@ -27,7 +27,7 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/wenbo.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 22nd March 2023  
+- 8th March 2023  
 **Wenbo Guo (UC Berkeley)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
