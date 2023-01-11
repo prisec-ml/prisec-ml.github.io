@@ -16,6 +16,11 @@ title: Privacy and Security in ML Seminars
 
 ### Upcoming Seminars
 
+<img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 4:30pm (CET), 19th April 2023  
+**Yizheng Chen (University of Maryland)**  
+TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+
 <img src="../images/jinyuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 5th April 2023  
 **Jinyuan Jia (UIUC)**  
