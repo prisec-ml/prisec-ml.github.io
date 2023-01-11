@@ -16,14 +16,9 @@ title: Privacy and Security in ML Seminars
 
 ### Upcoming Seminars
 
-<img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 4:30pm (CET), 19th April 2023  
-**Yizheng Chen (University of Maryland)**  
-TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
-
-<img src="../images/jinyuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 5th April 2023  
-**Jinyuan Jia (UIUC)**  
+<img src="../images/wenbo.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 3:30pm (CET), 8th March 2023  
+**Wenbo Guo (UC Berkeley)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/shawn.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
@@ -31,15 +26,17 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 **Shawn Shan (University of Chicago)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
-<img src="../images/wenbo.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 8th March 2023  
-**Wenbo Guo (UC Berkeley)**  
+<img src="../images/jinyuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 3:30pm (CET), 5th April 2023  
+**Jinyuan Jia (UIUC)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
+<img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 4:30pm (CET), 19th April 2023  
+**Yizheng Chen (University of Maryland)**  
+TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
-
-
 
 ### Past Seminars
 
