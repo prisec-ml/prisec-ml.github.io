@@ -32,11 +32,6 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 **Jinyuan Jia (UIUC)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
-<img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 4:30pm (CET), 19th April 2023  
-**Yizheng Chen (University of Maryland)**  
-TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
-
 <img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 3rd May 2023  
 **Christian Wressnegger (Karlsruhe Institute of Technology)**  
@@ -46,6 +41,12 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 - 3:30pm (CET), 17th May 2023  
 **Sahar Abdelnabi (CISPA Helmholtz Center for Information Security)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+
+<img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 4:30pm (CET), 14th June 2023  
+**Yizheng Chen (University of Maryland)**  
+TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
