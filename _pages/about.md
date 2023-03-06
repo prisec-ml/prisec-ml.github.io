@@ -32,7 +32,7 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 **Jinyuan Jia (UIUC)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
-<img src="../images/jingxuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+<img src="../images/jingxuan.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3:30pm (CET), 5th April 2023  
 **Jingxuan He (ETH)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
