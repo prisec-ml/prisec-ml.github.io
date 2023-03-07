@@ -17,39 +17,39 @@ title: Privacy and Security in ML Seminars
 ### Upcoming Seminars
 
 <img src="../images/wenbo.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 15th March 2023  
+- 15th March 2023, 3:30pm (CET)  
 **Wenbo Guo (UC Berkeley)**  
 Strengthening and Enriching Machine Learning for Cybersecurity  
 [[Join on Zoom](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)]<details><br>**Abstract:** Nowadays, security researchers are increasingly using AI to automate and facilitate security analysis. Although making some meaningful progress, AI has not maximized its capability in security yet, mainly due to two challenges. First, existing ML techniques have not reached security professionals' requirements in critical properties, such as interpretability and adversary-resistancy. Second, Security data imposes many new technical challenges, and these challenges break the assumptions of existing ML models and thus jeopardize their efficacy. In this talk, I will describe my research efforts to address the above challenges, with a primary focus on strengthening the interpretability of ML-based security systems and enriching ML to handle low-quality labels in security data. I will describe our technique to robustify existing explanation methods against attacks and a novel explanation method for deep learning-based security systems. I will also demonstrate how security analysts could benefit from explanations to discover new knowledge and patch ML model vulnerabilities. Then, I will introduce a novel ML system to enable high accurate categorizations of low-quality attack data and demonstrate its utility in a real-world industrial-level application. Finally, I will conclude by highlighting my plan towards maximizing the capability of advanced ML in cybersecurity. <br><br>**Bio:** Wenbo Guo is a PostDoc. Associate at UC Berkeley working with Prof. Dawn Song. His research interests are machine learning and cybersecurity. His work includes strengthening the fundamental properties of machine learning models and designing customized machine learning models to handle security-unique challenges. He is a recipient of multiple prestigious awards, including the IBM Ph.D. Fellowship (2020-2022) and ACM CCS Outstanding Paper Award (2018). </details>
 
 
 <img src="../images/shawn.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 22nd March 2023  
+- 22nd March 2023, 3:30pm (CET)  
 **Shawn Shan (University of Chicago)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/jinyuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 5th April 2023  
+- 5th April 2023, 3:30pm (CET)  
 **Jinyuan Jia (UIUC)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/jingxuan.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 19th April 2023  
+- 19th April 2023, 3:30pm (CET)  
 **Jingxuan He (ETH)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 3rd May 2023  
+- 3rd May 2023, 3:30pm (CET)  
 **Christian Wressnegger (Karlsruhe Institute of Technology)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/sahar.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3:30pm (CET), 17th May 2023  
+- 17th May 2023, 3:30pm (CET)  
 **Sahar Abdelnabi (CISPA Helmholtz Center for Information Security)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 4:30pm (CET), 14th June 2023  
+- 14th June 2023, 4:30pm (CET)  
 **Yizheng Chen (University of Maryland)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
