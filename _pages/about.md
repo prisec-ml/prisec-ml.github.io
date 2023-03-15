@@ -20,32 +20,38 @@ title: Privacy and Security in ML Seminars
 <img src="../images/shawn.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 22nd March 2023, 3:30pm (CET)  
 **Shawn Shan (University of Chicago)**  
-  <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+  
+<details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/jinyuan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 5th April 2023, 3:30pm (CET)  
 **Jinyuan Jia (UIUC)**  
-  <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+  
+<details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/jingxuan.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 19th April 2023, 3:30pm (CET)  
 **Jingxuan He (ETH)**  
-  <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+  
+<details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3rd May 2023, 3:30pm (CET)  
 **Christian Wressnegger (Karlsruhe Institute of Technology)**  
-  <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+  
+<details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/sahar.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 17th May 2023, 3:30pm (CET)  
 **Sahar Abdelnabi (CISPA Helmholtz Center for Information Security)**  
-  <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+  
+<details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 14th June 2023, 4:30pm (CET)  
 **Yizheng Chen (University of Maryland)**  
-  <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+  
+<details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
