@@ -47,6 +47,11 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 **Xudong Pan (Fudan University)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
+<img src="../images/amrita.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 12th July 2023, 4:30pm (CET)  
+**Amrita Roy Chowdhury (UCSD)**  
+TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 ### Past Seminars
