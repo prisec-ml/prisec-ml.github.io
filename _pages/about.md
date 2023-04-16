@@ -18,8 +18,8 @@ title: Privacy and Security in ML Seminars
 
 <img src="../images/jingxuan.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 19th April 2023, 3:30pm (CET)  
-**Jingxuan He (ETH)**  
-TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+**Jingxuan He (ETH)**  [zoom link](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)
+Controlling Pretrained Language Models to Generate Secure and Vulnerable Code <details><br>**Abstract:** Pretrained language models (PLMs) learned on massive code corpora are increasingly used to synthesizing programs. However, recent studies found that PLMs frequently generate unsafe code in security-sensitive scenarios. In this talk, I will first formulate a new security task called controlled code generation, which allows users to input a binary property to control if a PLM generates secure or unsafe code. Then, I will describe our approach that learns continuous prompts to achieve security control, while preserving the PLM’s capability of generating functionally correct code. <br><br>**Bio:** Jingxuan He is a final-year PhD student at ETH Zurich. He obtained his Master’s degree at ETH Zurich in 2018 and Bachelor’s degree at Zhejiang University in 2016. His research focuses on programming languages, machine learning, and security. </details>
 
 <img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3rd May 2023, 3:30pm (CET)  
