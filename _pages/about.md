@@ -16,14 +16,14 @@ title: Privacy and Security in ML Seminars
 
 ### Upcoming Seminars
 
-<img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3rd May 2023, 3:30pm (CET)  
-**Christian Wressnegger (Karlsruhe Institute of Technology)**  
-TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
-
 <img src="../images/sahar.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 17th May 2023, 3:30pm (CET)  
 **Sahar Abdelnabi (CISPA Helmholtz Center for Information Security)**  
+TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
+
+<img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 31st May 2023, 3:30pm (CET)  
+**Christian Wressnegger (Karlsruhe Institute of Technology)**  
 TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 
 <img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
