@@ -16,13 +16,6 @@ title: Privacy and Security in ML Seminars
 
 ### Upcoming Seminars
 
-
-
-<img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 31st May 2023, 3:30pm (CET)  
-**Christian Wressnegger (Karlsruhe Institute of Technology)**  [Zoom Link](https://cispa-de.zoom.us/j/97148371989?pwd=c0YwUkV1VXZXenpqaFpzNDB5eFk5QT09)
-Explanation-Aware Attacks against Neural Networks <details><br>**Abstract:** Modern deep learning methods have long been considered black boxes due to the lack of insights into their decision process. However, recent advances in explainable machine learning have turned the tables, enabling precise relevance attribution of input features for otherwise opaque models. This progression has raised expectations that these techniques can uncover attacks against learning-based systems, such as adversarial examples or neural backdoors. Unfortunately, current methods are not robust against manipulations themselves. This talk presents so-called explanation-aware attacks that manipulate a model and/or its prediction and simultaneously fool an explanation method applied post-hoc for analysis. This way, an adversary can disguise the reasons for a classifier's decision and even point toward alternative facts as a red herring, rendering existing explanation-based defenses ineffective. <br><br>**Bio:** Christian Wressnegger is an Assistant Professor of computer science at the Karlsruhe Institute of Technology, heading the "Intelligent System Security" research group. Additionally, he is the speaker of the "KIT Graduate School Cyber Security" and PI at the "KASTEL Security Research Labs," one of three competence centers for cyber security in Germany. He holds a Ph.D. from TU Braunschweig and has graduated from Graz University of Technology, where he majored in computer science. His research revolves around combining the fields of machine learning and computer security. For instance, he develops learning-based methods for attack detection or vulnerability discovery. More recently, he also focuses on machine learning methods' robustness, security, and interpretability. He publishes his work in proceedings of highly prestigious conferences (e.g., IEEE S&P, USENIX Security, ACM CCS, and ISOC NDSS) and contributes to the community by serving on program committees and organizing conferences (e.g., PC-Chair at ARES 2020 and the German national IT-Security conference "GI Sicherheit" 2022). </details>
-
 <img src="../images/yizheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 14th June 2023, 4:30pm (CET)  
 **Yizheng Chen (University of Maryland)**  
@@ -41,6 +34,14 @@ TBD <details><br>**Abstract:**  <br><br>**Bio:**  </details>
 **Google Calendar:** \[[html](https://calendar.google.com/calendar/embed?src=oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com&ctz=Europe%2FLondon)\] \[[ics](https://calendar.google.com/calendar/ical/oormvn3d4hah013g6gd39pjpfk%40group.calendar.google.com/public/basic.ics)\]
 
 ### Past Seminars
+
+
+ 
+<img src="../images/christian.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 31st May 2023. 
+**Christian Wressnegger (Karlsruhe Institute of Technology)**. 
+Explanation-Aware Attacks against Neural Networks <details><br>**Abstract:** Modern deep learning methods have long been considered black boxes due to the lack of insights into their decision process. However, recent advances in explainable machine learning have turned the tables, enabling precise relevance attribution of input features for otherwise opaque models. This progression has raised expectations that these techniques can uncover attacks against learning-based systems, such as adversarial examples or neural backdoors. Unfortunately, current methods are not robust against manipulations themselves. This talk presents so-called explanation-aware attacks that manipulate a model and/or its prediction and simultaneously fool an explanation method applied post-hoc for analysis. This way, an adversary can disguise the reasons for a classifier's decision and even point toward alternative facts as a red herring, rendering existing explanation-based defenses ineffective. <br><br>**Bio:** Christian Wressnegger is an Assistant Professor of computer science at the Karlsruhe Institute of Technology, heading the "Intelligent System Security" research group. Additionally, he is the speaker of the "KIT Graduate School Cyber Security" and PI at the "KASTEL Security Research Labs," one of three competence centers for cyber security in Germany. He holds a Ph.D. from TU Braunschweig and has graduated from Graz University of Technology, where he majored in computer science. His research revolves around combining the fields of machine learning and computer security. For instance, he develops learning-based methods for attack detection or vulnerability discovery. More recently, he also focuses on machine learning methods' robustness, security, and interpretability. He publishes his work in proceedings of highly prestigious conferences (e.g., IEEE S&P, USENIX Security, ACM CCS, and ISOC NDSS) and contributes to the community by serving on program committees and organizing conferences (e.g., PC-Chair at ARES 2020 and the German national IT-Security conference "GI Sicherheit" 2022). </details>
+
 
 <img src="../images/sahar.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 17th May 2023  
