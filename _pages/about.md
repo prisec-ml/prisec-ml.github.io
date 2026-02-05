@@ -315,7 +315,7 @@ How to Salvage Federated Learning
 [[Recording](https://www.youtube.com/watch?v=Tx2T3LojHIQ)]
 
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### Organizers
 
@@ -324,3 +324,4 @@ How to Salvage Federated Learning
 University of California, Riverside<br>
 [https://emilianodc.com/](https://emilianodc.com/)<br>
 
+-->
