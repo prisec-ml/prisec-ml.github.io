@@ -5,7 +5,9 @@ image: ../images/photo.jpeg
 title: Privacy and Security in ML Seminars
 ---
 
-<br>This was the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. From January 2021 to July 2023, it brought together researchers and practitioners around the world broadly interested in this topic. It was organized by Emiliano De Cristofaro and Lorenzo Cavallaro from University College London and Yang Zhang from CISPA.
+<br>This was the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. From January 2021 to July 2023, it brought together researchers and practitioners around the world broadly interested in this topic. It was organized by [Emiliano De Cristofaro](https://emilianodc.com), with some help from [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro) and [Yang Zhang](https://yangzhangalmo.github.io/).
+
+# New! We are planning a reboot of this seminar series! Stay tuned!
 
 ### Get Involved
 - Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar, jobs, and event announcements
