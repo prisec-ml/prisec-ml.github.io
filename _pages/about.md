@@ -7,7 +7,7 @@ title: Privacy and Security in ML Seminars
 
 <br>This was the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. From January 2021 to July 2023, it brought together researchers and practitioners around the world broadly interested in this topic. It was organized by [Emiliano De Cristofaro](https://emilianodc.com), with some help from [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro) and [Yang Zhang](https://yangzhangalmo.github.io/).
 
-# New! We are planning a reboot of this seminar series! Stay tuned!
+## New! We are planning a reboot of this seminar series! Stay tuned!
 
 ### Get Involved
 - Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar, jobs, and event announcements
@@ -318,21 +318,9 @@ How to Salvage Federated Learning
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ### Organizers
-<img src="../images/yang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- **Dr. Yang Zhang**  
-Faculty Member<br>
-CISPA Helmholtz Center for Information Security<br>
-[https://yangzhangalmo.github.io](https://yangzhangalmo.github.io)<br>
-
-<img src="../images/lorenzo.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- **Prof. Lorenzo Cavallaro**  
-Professor of Computer Science, <em>Leader of the <a href="https://s2lab.cs.ucl.ac.uk">Systems Security Research Lab</a></em><br>
-University College London (UCL)<br>
-[https://s2lab.cs.ucl.ac.uk/people/sullivan](https://s2lab.cs.ucl.ac.uk/people/sullivan)<br>
 
 <img src="../images/emiliano.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- **Prof. Emiliano De Cristofaro** (until August 2022)  
-Professor of Security and Privacy Enhancing Technologies<br>
-University College London (UCL)<br>
+- **Prof. Emiliano De Cristofaro**  
+University of California, Riverside<br>
 [https://emilianodc.com/](https://emilianodc.com/)<br>
 
