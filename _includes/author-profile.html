@@ -38,7 +38,7 @@
         <li><a href="{{ author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
       {% endif %}    
       {% if author.bsky %}
-        <li><a href="https://bsky.app/profile/{{ author.bsky }}" class="social-link" aria-label="Bluesky"><img src="{{ '/assets/icons/bluesky.svg' | relative_url }}" alt="" class="social-icon"> Bluesky</a></li>
+        <li><a href="https://bsky.app/profile/{{ author.bsky }}"><i class="fa fa-fw fa-bsky-square" aria-hidden="true"></i> Bluesky</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -115,5 +115,3 @@
     </ul>
   </div>
 </div>
-
-<!--<a href="https://bsky.app/profile/{{ author.bsky }}"><i class="fa fa-fw fa-bsky-square" aria-hidden="true"></i> Bluesky</a>-->
