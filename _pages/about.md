@@ -18,6 +18,22 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 <!-- - Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PRISEC-ML&A=1)** for seminar announcements
 -->
 
+
+## Upcoming Seminars
+
+<img src="../images/peter.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+- March 6, 2026 (12pm ET / 9am PT / 5pm GMT)  
+**Peter Kairouz (Google)**  
+TBA  
+
+<img src="../images/earlence.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+- April 17, 2026 (12pm ET / 9am PT / 5pm GMT)  
+**Earlence Fernandes (UC San Diego)**  
+TBA  
+
+
+
+
 ## Past (PriSec-ML) Seminars
 
 
